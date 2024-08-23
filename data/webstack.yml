@@ -863,6 +863,38 @@
           logo: 
           url: https://workingvpn.com/
           description: 
+        - title: Proton VPN 插件版
+          logo: 
+          url: https://www.freedidi.com/13526.html
+          description: 
+        - title: Chrome 浏览器插件VPN
+          logo: 
+          url: https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa?hl=zh-CN&utm_source=ext_sidebar
+          description: 
+        - title: Edge浏览器插件VPN
+          logo: 
+          url: https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa?hl=zh-CN&utm_source=ext_sidebar
+          description: 
+        - title: 火狐浏览器插件VPN
+          logo: 
+          url: https://addons.mozilla.org/en-GB/firefox/addon/proton-vpn-firefox-extension/
+          description: 
+        - title: Astar-VPN插件VPN
+          logo: 
+          url: https://chromewebstore.google.com/detail/astar-vpn-%E9%80%82%E5%90%88%E6%89%80%E6%9C%89%E4%BA%BA%E7%9A%84%E5%85%8D%E8%B4%B9%E4%B8%94%E5%BF%AB%E9%80%9F%E7%9A%84-vp/jajilbjjinjmgcibalaakngmkilboobh?hl=zh-cn
+          description: 
+        - title: ZenMate-Free-VPN插件VPN
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E5%85%8D%E8%B4%B9-vpn-zenmate-free-vpn-c/fdcgdnkidjaadafnichfpabhfomcebme?hl=zh-cn
+          description: 
+        - title: VeePN插件VPN
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E9%80%82%E7%94%A8%E4%BA%8E-chrome-%E7%9A%84%E5%85%8D%E8%B4%B9-vpn-vpn-%E4%BB%A3%E7%90%86/majdfhpaihoncoakbjgbdhglocklcgno?hl=zh-cn
+          description: 
+        - title: Free Vpn 双向翻插件VPN
+          logo: 
+          url: https://chromewebstore.google.com/detail/free-vpn-chrome-free-vpn/ebldcmdjfokdlhlldbfgljogkjkadoag?hl=zh-cn
+          description: 
 
     - term: 源代码
       links:
@@ -1344,6 +1376,10 @@
         - title: CM大佬讲解白嫖哥软件视频
           logo: 
           url: https://www.youtube.com/watch?v=Iy69T4QPInY
+          description:
+        - title: 5款免费VPN浏览器插件
+          logo: 
+          url: https://www.youtube.com/watch?v=IvIRdnTbSeQ
           description:
 
     - term: 4K/8K视频测试
