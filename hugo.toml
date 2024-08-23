@@ -7,7 +7,7 @@ theme = "hugo-webstack"
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "蓝猫精灵导航"
+copyright = "lmjl"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
