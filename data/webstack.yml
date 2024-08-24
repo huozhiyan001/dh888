@@ -303,6 +303,14 @@
           logo: 
           url: https://ipinfo.io/
           description: 
+        - title: IP-API.com-IP查询
+          logo: 
+          url: https://ip-api.com/
+          description: 
+        - title: 我自己做的IP地址
+          logo: 
+          url: https://ip-show.q4o6gw33.workers.dev/
+          description: 
         - title: 测速1
           logo: 
           url: https://www.speedtest.net/
@@ -454,6 +462,14 @@
         - title: IPV6-IPV6-在线生成计算器
           logo:  
           url: https://www.lddgo.net/base/class?classID=4
+          description:
+        - title: CM大佬维护的IPV6
+          logo:  
+          url: https://addressesapi.090227.xyz/cmcc-ipv6
+          description:
+        - title: CM大佬维护的CloudFlare优选汇总
+          logo:  
+          url: https://blog.cmliussss.com/p/CloudFlare%E4%BC%98%E9%80%89/
           description:
 
 
