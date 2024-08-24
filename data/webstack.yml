@@ -1006,6 +1006,10 @@
           logo: 
           url: https://github.com/cmliu/CF-Workers-SUB
           description: 
+        - title: 微信-QQ防撤回软件24.8.24
+          logo: 
+          url: https://github.com/huiyadanli/RevokeMsgPatcher
+          description: 
             
     - term: 魔法工具
       links:
