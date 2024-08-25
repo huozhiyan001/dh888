@@ -71,6 +71,10 @@
       logo:  
       url: https://www.wanzhi.com/home
       description: 
+    - title: perplexity-GPT
+      logo:  
+      url: https://www.perplexity.ai/search/ni-hao-XQNOdGNFT923FVcClAgw2g#0
+      description: 
     - title: claude--AI
       logo:  
       url: https://claude.ai/chats
@@ -1400,6 +1404,10 @@
         - title: 5款免费VPN浏览器插件
           logo: 
           url: https://www.youtube.com/watch?v=IvIRdnTbSeQ
+          description:
+        - title: CF如何查找优选域名
+          logo: 
+          url: https://www.youtube.com/watch?v=1A8HbF3P_AI
           description:
 
     - term: 4K/8K视频测试
