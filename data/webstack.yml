@@ -1014,6 +1014,10 @@
           logo: 
           url: https://github.com/huiyadanli/RevokeMsgPatcher
           description: 
+        - title: Umi-OCR文字识别软件
+          logo: 
+          url: https://github.com/hiroi-sora/Umi-OCR
+          description: 
             
     - term: 魔法工具
       links:
