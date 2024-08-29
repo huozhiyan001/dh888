@@ -402,6 +402,10 @@
         
     - term: 优选与反代-及免费节点
       links:
+        - title: CM大佬维护的IPV6
+          logo:  
+          url: https://addressesapi.090227.xyz/cmcc-ipv6
+          description:
         - title: 优选ip库
           logo:  
           url: https://345673.xyz/#
@@ -473,10 +477,6 @@
         - title: IPV6-IPV6-在线生成计算器
           logo:  
           url: https://www.lddgo.net/base/class?classID=4
-          description:
-        - title: CM大佬维护的IPV6
-          logo:  
-          url: https://addressesapi.090227.xyz/cmcc-ipv6
           description:
         - title: CM大佬维护的CloudFlare优选汇总
           logo:  
