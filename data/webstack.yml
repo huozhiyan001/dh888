@@ -402,6 +402,10 @@
           logo:  
           url: https://zip.baipiao.eu.org
           description:
+        - title: 节点转换器
+          logo:  
+          url: https://sublink-worker.seven7-ade.workers.dev/
+          description:
         - title: 优选ip库
           logo:  
           url: https://345673.xyz/#
