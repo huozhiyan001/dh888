@@ -79,6 +79,10 @@
       logo:  
       url: https://claude.ai/chats
       description: 
+    - title: 11种AI大模型
+      logo:  
+      url: https://chat.notdiamond.ai/
+      description: 
     - title: ico图标
       logo:  
       url: https://icon-sets.iconify.design/?query=google
@@ -1433,6 +1437,10 @@
           logo: 
           url: https://youtu.be/5zm1e2SY1MU
           description:
+        - title: 11种大模型AI使用教程
+          logo: 
+          url: https://www.youtube.com/watch?v=Z1_uB6eS2Wg
+          description: 地址在这里https://chat.notdiamond.ai/
 
     - term: 4K/8K视频测试
       links:
