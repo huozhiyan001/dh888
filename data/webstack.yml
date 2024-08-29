@@ -387,16 +387,16 @@
           logo:  
           url: https://who.is/
           description:
-        - title: 白嫖哥优选IP购买
-          logo:  
-          url: https://docs.bestip.one/
-          description:
-           
+                 
     - term: 优选与反代-及免费节点
       links:
         - title: CM大佬维护的IPV6
           logo:  
           url: https://addressesapi.090227.xyz/cmcc-ipv6
+          description:
+        - title: 白嫖哥优选IP购买
+          logo:  
+          url: https://docs.bestip.one/
           description:
         - title: 白嫖哥下载优选IP地址
           logo:  
@@ -482,11 +482,15 @@
           logo:  
           url: https://openproxylist.com/
           description:
+        - title: 小5号上制作的免费节点-ddd0826
+          logo:  
+          url: https://ddd0826.1-3a5.workers.dev/7b986c0e-55dc-4c34-ad0d-369afee6950f/configs?sub=list
+          description:
         - title: 批量添加IP地址到自己节点
           logo:  
           url: https://bulianglin.com/archives/cdn.html
           description:
-          
+               
     - term: 金融中心
       links:
         - title: GQL Quantify智能量化平台
