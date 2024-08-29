@@ -1036,6 +1036,10 @@
           logo: 
           url: https://github.com/hiroi-sora/Umi-OCR
           description: 
+        - title: 节点订阅器转换-带短连接
+          logo: 
+          url: https://github.com/7Sageer/sublink-worker
+          description: 
             
     - term: 魔法工具
       links:
