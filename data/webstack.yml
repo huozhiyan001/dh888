@@ -311,6 +311,10 @@
           logo: 
           url: https://ipinfo.io/
           description: 
+        - title: 查看自己的IP地址
+          logo: 
+          url: https://ipcheck.ing/#/
+          description: 
         - title: IP-API.com-IP查询
           logo: 
           url: https://ip-api.com/
