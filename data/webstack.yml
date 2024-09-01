@@ -406,9 +406,13 @@
           logo:  
           url: https://zip.baipiao.eu.org
           description:
-        - title: 节点转换器
+        - title: 节点转换器-长链接转短链接
           logo:  
           url: https://sublink-worker.seven7-ade.workers.dev/
+          description:
+        - title: 不良林-批量添加IP地址到自己节点
+          logo:  
+          url: https://bulianglin.com/archives/cdn.html
           description:
         - title: 优选ip库
           logo:  
@@ -493,10 +497,6 @@
         - title: 小5号上制作的免费节点-ddd0826
           logo:  
           url: https://ddd0826.1-3a5.workers.dev/7b986c0e-55dc-4c34-ad0d-369afee6950f/configs?sub=list
-          description:
-        - title: 批量添加IP地址到自己节点
-          logo:  
-          url: https://bulianglin.com/archives/cdn.html
           description:
                
     - term: 金融中心
@@ -1459,6 +1459,10 @@
           logo: 
           url: https://www.youtube.com/watch?v=Z1_uB6eS2Wg
           description: 地址在这里https://chat.notdiamond.ai/
+        - title: 已知优选IP如何手搓生成无数个节点
+          logo: 
+          url: https://www.youtube.com/watch?v=4zjKuF0cY0M&t=498s
+          description:
 
     - term: 4K/8K视频测试
       links:
