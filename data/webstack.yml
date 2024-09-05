@@ -502,7 +502,14 @@
           logo:  
           url: https://ddd0826.1-3a5.workers.dev/7b986c0e-55dc-4c34-ad0d-369afee6950f/configs?sub=list
           description:
-               
+
+    - term: 购物及其他平台
+      links:
+        - title: 淘宝
+          logo:  
+          url: https://www.taobao.com/
+          description: 
+          
     - term: 金融中心
       links:
         - title: GQL Quantify智能量化平台
