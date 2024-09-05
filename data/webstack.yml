@@ -987,13 +987,17 @@
           logo:  
           url: https://github.com/dashboard
           description: 
-        - title: 导航源代码-完整版
+        - title: 导航源代码-完整版-02
           logo: 
           url: https://github.com/afengxiang/afx
           description: 
-        - title: 导航源代码-简化版
+        - title: 导航源代码-简化版-01
           logo: 
           url: https://github.com/shiteThings/cloudflare-navpage/blob/main/index.js
+          description: 
+        - title: 导航源代码-简单版0905-03
+          logo: 
+          url: https://github.com/hmhm2022/Card-Tab
           description: 
         - title: 手机投屏01
           logo: 
