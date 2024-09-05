@@ -1493,13 +1493,17 @@
          
     - term: 导航网站
       links:
-        - title: 导航网站-精简版01
+        - title: 导航网站-精简版-1
           logo: 
           url: https://wy.958878.xyz/
           description: 
-        - title: 导航网站-完整版
+        - title: 导航网站-完整版-2
           logo: 
           url: https://dh.958878.xyz
+          description: 
+        - title: 导航网站-简单导航0905-3
+          logo: 
+          url: https://jddh.958878.xyz/
           description: 
         - title: 导航网站-精简版02(备用网站)
           logo: 
