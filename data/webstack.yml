@@ -835,45 +835,6 @@
           url: https://www.jianguoyun.com/#/
           description: 
           
-    - term: 购物商城
-      links:
-        - title: 淘宝
-          logo: 
-          url: https://www.taobao.com/
-          description: 
-        - title: 京东
-          logo: 
-          url: https://www.jd.com/
-          description: 
-        - title: 支付宝
-          logo: 
-          url: https://www.alipay.com/
-          description: 
-        - title: 哔哩哔哩
-          logo: 
-          url: https://www.bilibili.com/
-          description: 
-        - title: 江苏移动
-          logo: 
-          url: https://www.10086.cn/index/bj/index_100_100.html#home
-          description: 
-        - title: 江苏电信
-          logo: 
-          url: https://js.189.cn/umall/home/index
-          description: 
-        - title: 江苏公积金
-          logo: 
-          url: https://m12333.cn/platform/yy.html
-          description: 
-        - title: 远特通讯查询
-          logo: 
-          url: https://www.m10027.com/index.html
-          description: 
-        - title: ICP备室查询
-          logo: 
-          url: https://icp.chinaz.com/
-          description: 
-          
     - term: 浏览器插件
       links:
         - title: 油猴子脚本
