@@ -498,6 +498,10 @@
           logo:  
           url: https://openproxylist.com/
           description:
+        - title: 免费节点0
+          logo:  
+          url: https://github.com/Epodonios/v2ray-configs
+          description: 视频教程https://www.youtube.com/watch?v=I7j9OCcG9bQ
         - title: 小5号上制作的免费节点-ddd0826
           logo:  
           url: https://ddd0826.1-3a5.workers.dev/7b986c0e-55dc-4c34-ad0d-369afee6950f/configs?sub=list
