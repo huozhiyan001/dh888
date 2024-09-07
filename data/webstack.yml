@@ -398,6 +398,10 @@
                  
     - term: 优选与反代-及免费节点
       links:
+        - title: 碧海反代IP网址
+          logo:  
+          url: https://bihai.cf/CFIP/
+          description:
         - title: CM大佬维护的IPV6
           logo:  
           url: https://addressesapi.090227.xyz/cmcc-ipv6
@@ -482,7 +486,7 @@
           logo:  
           url: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md#Find-proxyIP
           description:
-        - title: 碧海云网盘-反代工具
+        - title: 碧海官网
           logo:  
           url: https://bihai.cf/
           description: 源代码地址https://github.com/bh-qt/Cloudflare-IP-SpeedTest
