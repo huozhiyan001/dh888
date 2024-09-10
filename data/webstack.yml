@@ -1004,6 +1004,10 @@
           logo: 
           url: https://chromewebstore.google.com/detail/free-vpn-chrome-free-vpn/ebldcmdjfokdlhlldbfgljogkjkadoag?hl=zh-cn
           description: 
+        - title: Internxt VPN - Free翻插件VPN
+          logo: 
+          url: https://chromewebstore.google.com/detail/internxt-vpn-free-encrypt/dpggmcodlahmljkhlmpgpdcffdaoccni?hl=en&authuser=0&pli=1
+          description: 
 
     - term: 源代码
       links:
@@ -1538,6 +1542,10 @@
           logo: 
           url: https://www.youtube.com/watch?v=OW2orsKkFts
           description:
+        - title: 免费vpn浏览器代理插件
+          logo: 
+          url: https://www.youtube.com/watch?v=0OpGYoKnbfY
+          description: 
 
     - term: 4K/8K视频测试
       links:
