@@ -1047,7 +1047,7 @@
           logo:  
           url: https://github.com/cmliu
           description: 
-        - title: 3K大佬
+        - title: 6K大佬-原3K大佬
           logo:  
           url: https://github.com/6Kmfi6HP/EDtunnel
           description: 
@@ -1118,6 +1118,10 @@
         - title: 节点订阅器转换-带短连接
           logo: 
           url: https://github.com/7Sageer/sublink-worker
+          description: 
+        - title: 免费的商用字体库
+          logo: 
+          url: https://wangchujiang.com/free-font/
           description: 
             
     - term: 魔法工具
