@@ -1121,7 +1121,7 @@
           description: 
         - title: 免费的商用字体库
           logo: 
-          url: https://wangchujiang.com/free-font/
+          url: https://github.com/jaywcjlove/free-font
           description: 
             
     - term: 魔法工具
@@ -1299,6 +1299,10 @@
         - title: 汉字转拼音
           logo: 
           url: https://ctool.dev
+          description: 
+        - title: 免费商用字体库
+          logo: 
+          url: https://wangchujiang.com/free-font/
           description: 
 
 
