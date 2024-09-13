@@ -530,6 +530,10 @@
           logo:  
           url: https://github.com/hhyyx1/cfip
           description:
+        - title: CFIP-参考
+          logo:  
+          url: https://github.com/kanbuqini/cfip
+          description:
 
     - term: 购物及其他平台
       links:
