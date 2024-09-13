@@ -522,9 +522,13 @@
           logo:  
           url: https://cf.090227.xyz/
           description:
-        - title: 反代IP-02
+        - title: CFIP-01
           logo:  
           url: https://github.com/Garfyyy/cfip2
+          description:
+        - title: CFIP-02
+          logo:  
+          url: https://github.com/hhyyx1/cfip
           description:
 
     - term: 购物及其他平台
