@@ -410,17 +410,21 @@
           logo:  
           url: https://addressesapi.090227.xyz/cmcc-ipv6
           description:
+        - title: CM大佬维护的IPV4
+          logo:  
+          url: https://addressesapi.090227.xyz/CloudFlareYes
+          description:
         - title: 白嫖哥优选IP购买
           logo:  
           url: https://docs.bestip.one/
           description:
-        - title: 白嫖哥下载优选IP地址
-          logo:  
-          url: https://zip.baipiao.eu.org
-          description:
         - title: 3K大佬购买IP库
           logo:  
           url: https://shop.rtt.icu/
+          description:
+        - title: 白嫖哥下载优选IP地址
+          logo:  
+          url: https://zip.baipiao.eu.org
           description:
         - title: 节点转换器-长链接转短链接
           logo:  
@@ -537,6 +541,10 @@
         - title: CFIP-参考
           logo:  
           url: https://github.com/kanbuqini/cfip
+          description:
+        - title: 固定IP-01
+          logo:  
+          url: https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
           description:
 
     - term: 购物及其他平台
@@ -705,6 +713,10 @@
         - title: serv00部署搭建节点博客教程
           logo: 
           url: https://kjgx668.blogspot.com/2024/08/202410vpsserv00-serv00vless-chatgptipip.html
+          description: 
+        - title: 科技共享-多协议节点制作
+          logo: 
+          url: https://kjgx668.blogspot.com/2024/09/2024karingwarpvless10wyt-8kipchatgpt.html
           description: 
           
           
