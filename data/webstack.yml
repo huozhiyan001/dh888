@@ -406,10 +406,6 @@
                  
     - term: 优选与反代-及免费节点
       links:
-        - title: 碧海反代IP网址
-          logo:  
-          url: https://bihai.cf/CFIP/
-          description:
         - title: CM大佬维护的IPV6
           logo:  
           url: https://addressesapi.090227.xyz/cmcc-ipv6
@@ -506,9 +502,9 @@
           logo:  
           url: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md#Find-proxyIP
           description:
-        - title: 碧海官网
+        - title: 碧海反代IP网址
           logo:  
-          url: https://bihai.cf/
+          url: https://bihai.cf/CFIP/
           description: 源代码地址https://github.com/bh-qt/Cloudflare-IP-SpeedTest
         - title: IPV6-IPV6-在线生成计算器
           logo:  
@@ -545,10 +541,6 @@
         - title: CFIP-参考
           logo:  
           url: https://github.com/kanbuqini/cfip
-          description:
-        - title: 固定IP-01
-          logo:  
-          url: https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
           description:
 
     - term: 购物及其他平台
@@ -592,10 +584,6 @@
           
     - term: 金融中心
       links:
-        - title: GQL Quantify智能量化平台
-          logo:  
-          url: https://www.gql18.com/pc.html
-          description: 
         - title: Fomecard虚拟信用卡
           logo: 
           url: https://tsy.fomecard.top
@@ -727,7 +715,7 @@
 - taxonomy: 资源分享
   icon: fa-thumbs-up
   list: 
-    - term: 各大网站资源
+    - term: 各大网站社区
       links:
         - title: 油猴子
           logo: 
@@ -924,6 +912,10 @@
         - title: 坚果云盘
           logo:  
           url: https://www.jianguoyun.com/#/
+          description: 
+        - title: 萌研社
+          logo:  
+          url: http://www.pcmoe.net/portal.php
           description: 
   
     - term: 浏览器插件
