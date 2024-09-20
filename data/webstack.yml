@@ -1096,6 +1096,10 @@
           logo: 
           url: https://www.memocard.net/
           description: 
+        - title: youtube“半自动”跳过广告|屏蔽广告
+          logo: 
+          url: chrome-extension://ddkjiahejlhfcafbddmgiahcphecmpfh/dashboard.html
+          description: 视频教程---https://www.youtube.com/watch?v=-Ofx7RLZ2go
         
     - term: 源代码
       links:
