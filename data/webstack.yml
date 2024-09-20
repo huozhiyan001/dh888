@@ -934,7 +934,7 @@
           url: http://www.pcmoe.net/portal.php
           description: 
   
-    - term: 浏览器插件
+    - term: 浏览器插件及软件
       links:
         - title: Google浏览器官网
           logo: 
@@ -1075,6 +1075,26 @@
         - title: bilibili哔哩哔哩下载助手
           logo: 
           url: https://chromewebstore.google.com/detail/bilibili%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/bfcbfobhcjbkilcbehlnlchiinokiijp?hl=zh-CN&utm_source=ext_sidebar
+          description: 
+        - title: 腾讯ARC—图像处理识别
+          logo: 
+          url: https://arc.tencent.com/zh/ai-demos/faceRestoration
+          description: 
+        - title: Azure TTS Web—在线语音生成
+          logo: 
+          url: https://tts.femoon.top/cn
+          description: 
+        - title: 文本到徽标和图标
+          logo: 
+          url: https://www.logo.surf/
+          description: 
+        - title: Shot Sleek—截图美化
+          logo: 
+          url: https://pretty-snap.iwhy.dev/
+          description: 
+        - title: Memo Card—文字卡片生成器
+          logo: 
+          url: https://www.memocard.net/
           description: 
         
     - term: 源代码
