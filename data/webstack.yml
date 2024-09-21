@@ -933,6 +933,10 @@
           logo:  
           url: http://www.pcmoe.net/portal.php
           description: 
+        - title: 熊猫分享网
+          logo:  
+          url: https://www.xmaofx.com/
+          description: 
   
     - term: 浏览器插件及软件
       links:
