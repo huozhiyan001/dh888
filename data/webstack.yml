@@ -940,6 +940,10 @@
           logo: 
           url: https://www.google.com/intl/en/chrome/
           description: 
+        - title: 油猴子插件-篡改猴
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo
+          description: 
         - title: 油猴子脚本
           logo: 
           url: https://greasyfork.org/zh-CN
