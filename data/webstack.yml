@@ -422,6 +422,10 @@
                  
     - term: 优选与反代-及免费节点
       links:
+        - title: 碧海反代IP网址
+          logo:  
+          url: https://bihai.cf/CFIP/
+          description: 源代码地址https://github.com/bh-qt/Cloudflare-IP-SpeedTest
         - title: CM大佬维护的IPV6
           logo:  
           url: https://addressesapi.090227.xyz/cmcc-ipv6
@@ -518,10 +522,6 @@
           logo:  
           url: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md#Find-proxyIP
           description:
-        - title: 碧海反代IP网址
-          logo:  
-          url: https://bihai.cf/CFIP/
-          description: 源代码地址https://github.com/bh-qt/Cloudflare-IP-SpeedTest
         - title: IPV6-IPV6-在线生成计算器
           logo:  
           url: https://www.lddgo.net/base/class?classID=4
@@ -1730,6 +1730,14 @@
           logo: 
           url: https://www.youtube.com/watch?v=BgpKbzRBYUU
           description: 博客地址----https://kjgx668.blogspot.com/2024/09/blog-post.html
+        - title: Cloudflare WARP+复活版全新使用MASQUE新协议
+          logo: 
+          url: https://www.youtube.com/watch?v=Eb1v9J4n59g&t=46s
+          description: 
+        - title: 非会员-夸克网盘如何提速
+          logo: 
+          url: https://www.youtube.com/watch?v=kSILMypnodk
+          description: 
 
     - term: 4K/8K视频测试
       links:
