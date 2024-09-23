@@ -395,6 +395,10 @@
           logo: 
           url: https://edu.chatgpt.org.uk/
           description: 
+        - title: 自己小3@上做的美国生成器usdz240923
+          logo: 
+          url: https://usdz.lmfx.cloudns.ch/
+          description: 视频教程----https://www.youtube.com/watch?v=iHXb6pDA7k4
         - title: 大陆地址生成器
           logo: 
           url: https://www.meiguodizhi.com/cn-address
@@ -1266,6 +1270,10 @@
         - title: my_tv电视直播04
           logo: 
           url: https://github.com/yaoxieyoulei/my_tv
+          description: 
+        - title: 美国地址生成器源代码
+          logo: 
+          url: https://github.com/chatgptuk/Real-US-Address-Generator
           description: 
             
     - term: 魔法工具
