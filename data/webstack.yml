@@ -426,6 +426,10 @@
           logo:  
           url: https://bihai.cf/CFIP/
           description: 源代码地址https://github.com/bh-qt/Cloudflare-IP-SpeedTest
+        - title: 优选ip库01
+          logo:  
+          url: https://github.com/ymyuuu/IPDB
+          description: 
         - title: CM大佬维护的IPV6
           logo:  
           url: https://addressesapi.090227.xyz/cmcc-ipv6
@@ -454,18 +458,6 @@
           logo:  
           url: https://bulianglin.com/archives/cdn.html
           description:
-        - title: 优选ip库
-          logo:  
-          url: https://345673.xyz/#
-          description: 
-        - title: 优选ip库02
-          logo:  
-          url: https://ipdb.api.030101.xyz/
-          description: 
-        - title: 优选ip库03
-          logo:  
-          url: https://github.com/ymyuuu/IPDB
-          description: 
         - title: 优选ip库04
           logo:  
           url: https://ip.164746.xyz/
