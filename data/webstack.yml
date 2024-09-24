@@ -155,6 +155,10 @@
       logo:  
       url: https://9xbuddy.in/zh
       description: 
+    - title: WARP+Key激活码获取
+      logo:  
+      url: https://github.com/ircfspace/warpkey?tab=readme-ov-file
+      description: 
 
 
 - taxonomy: 邮箱
@@ -314,6 +318,10 @@
         - title: IP落地查询03
           logo: 
           url: http://ip111.cn/
+          description: 
+        - title: IP落地查询04
+          logo: 
+          url: https://ip.im/
           description: 
         - title: 我的IP地址
           logo:  
