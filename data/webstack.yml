@@ -15,14 +15,14 @@
       logo: 
       url: https://dash.cloudflare.com/
       description: 
-    - title: github官网
-      logo:  
-      url: https://github.com/dashboard
-      description: 
     - title: 接码平台
       logo:  
       url: https://sms-activate.org/cn/getNumber
       description:
+    - title: github官网
+      logo:  
+      url: https://github.com/dashboard
+      description: 
     - title: 住宅IP代理浏览器
       logo:  
       url: https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/
@@ -431,6 +431,10 @@
           logo:  
           url: https://who.is/
           description:
+        - title: ChatGpt官网
+          logo:  
+          url: https://chatgpt.com/?oai-dm=1
+          description: 
                  
     - term: 优选与反代-及免费节点
       links:
@@ -1135,6 +1139,10 @@
         - title: 小舒同学-基于书签的新标签页
           logo: 
           url: https://chromewebstore.google.com/detail/%E5%B0%8F%E8%88%92%E5%90%8C%E5%AD%A6-%E5%9F%BA%E4%BA%8E%E4%B9%A6%E7%AD%BE%E7%9A%84%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/eldcinofoklpfhaanlhmkmadehfgcnon
+          description: 
+        - title: Proxy SwitchyOmega-WARP+插件
+          logo: 
+          url: https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?pli=1
           description: 
         
     - term: 源代码
