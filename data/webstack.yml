@@ -1299,6 +1299,11 @@
           logo: 
           url: https://github.com/chatgptuk/Real-US-Address-Generator
           description: 
+        - title: STranslate-翻译-源代码
+          logo: 
+          url: https://github.com/ZGGSONG/STranslate
+          description: 
+        
             
     - term: 魔法工具
       links:
