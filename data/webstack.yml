@@ -15,14 +15,18 @@
       logo: 
       url: https://dash.cloudflare.com/
       description: 
-    - title: 接码平台
-      logo:  
-      url: https://sms-activate.org/cn/getNumber
-      description:
     - title: github官网
       logo:  
       url: https://github.com/dashboard
       description: 
+    - title: 接码平台-01
+      logo:  
+      url: https://sms-activate.org/cn/getNumber
+      description:
+    - title: 接码平台-04
+      logo:  
+      url: https://yelisms.lat/user/home#
+      description:
     - title: 住宅IP代理浏览器
       logo:  
       url: https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/
