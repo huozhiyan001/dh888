@@ -1215,6 +1215,10 @@
           logo:  
           url: https://docs.bestip.one/
           description: 
+        - title: 碧海反代IP测速源代码
+          logo:  
+          url: https://github.com/bh-qt/Cloudflare-IP-SpeedTest
+          description: 
         - title: 不良林
           logo:  
           url: https://github.com/bulianglin
