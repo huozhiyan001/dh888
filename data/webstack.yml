@@ -395,6 +395,10 @@
           logo: 
           url: http://speed5.ntu.edu.tw/speed5/
           description: 
+        - title: 测速4
+          logo: 
+          url: https://speed.cloudflare.com/
+          description: 
         - title: 测IP地址是在什么地区
           logo: 
           url: https://reallyfreegeoip.org/bulk#google_vignette
@@ -485,11 +489,14 @@
         - title: 3K大佬购买IP库
           logo:  
           url: https://shop.rtt.icu/
-          description:
+        - title: 3K大佬IP库-支付宝购买链接
+          logo:  
+          url: https://shop.rtt.icu/sponsor
+          description: 3K大佬Tg群----https://t.me/edtunnel_chat
         - title: 白嫖哥下载优选IP地址
           logo:  
           url: https://zip.baipiao.eu.org
-          description:
+          description: 
         - title: 节点转换器-长链接转短链接
           logo:  
           url: https://sublink-worker.seven7-ade.workers.dev/
@@ -589,6 +596,10 @@
         - title: CFIP-参考
           logo:  
           url: https://github.com/kanbuqini/cfip
+          description:
+        - title: 3K大佬CF-IP-远程检测
+          logo:  
+          url: https://proxyip.edtunnel.best/
           description:
 
     - term: 购物及其他平台
@@ -1802,6 +1813,10 @@
         - title: 获取Warp2000万GB免费流量
           logo: 
           url: https://www.youtube.com/watch?v=zcx74ZHI7n8
+          description: 
+        - title: 3K大佬非标端口讲解
+          logo: 
+          url: https://www.youtube.com/watch?v=PLzPrKjP8ZE
           description: 
 
     - term: 4K/8K视频测试
