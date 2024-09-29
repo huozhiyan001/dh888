@@ -1527,6 +1527,10 @@
           logo: 
           url: https://wangchujiang.com/free-font/
           description: 
+        - title: office365部署前缀
+          logo: 
+          url: https://www.microsoft.com/en-us/download/details.aspx?id=49117
+          description: 
 
 
 - taxonomy: 游戏频道
@@ -1829,6 +1833,10 @@
           logo: 
           url: https://www.youtube.com/watch?v=PLzPrKjP8ZE
           description: 
+        - title: office365部署讲解240929
+          logo: 
+          url: https://www.youtube.com/watch?v=tEDMSCYbudI
+          description: 视频博客-----https://cyber.suma.tw/free-office-deployment-activation/#CMD_Command
 
     - term: 4K/8K视频测试
       links:
