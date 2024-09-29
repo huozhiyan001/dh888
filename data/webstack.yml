@@ -980,6 +980,10 @@
           logo:  
           url: https://www.xmaofx.com/
           description: 
+        - title: IDM替代品FDM软件
+          logo:  
+          url: https://www.freedownloadmanager.org/zh/
+          description: 视频讲解---https://www.youtube.com/watch?v=1Yi-TAjEo7g
   
     - term: 浏览器插件及软件
       links:
@@ -1338,7 +1342,10 @@
           logo: 
           url: https://github.com/badafans/Cloudflare-IP-SpeedTest
           description: 
-        
+        - title: IDM替代品FDM软件-视频插件源代码
+          logo:  
+          url: https://github.com/meowcateatrat/elephant
+          description: 视频讲解---https://www.youtube.com/watch?v=1Yi-TAjEo7g
             
     - term: 魔法工具
       links:
