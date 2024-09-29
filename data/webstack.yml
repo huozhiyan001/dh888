@@ -1334,6 +1334,10 @@
           logo: 
           url: https://github.com/ZGGSONG/STranslate
           description: 
+        - title: 原版的CF反代IP软件源代码
+          logo: 
+          url: https://github.com/badafans/Cloudflare-IP-SpeedTest
+          description: 
         
             
     - term: 魔法工具
