@@ -601,6 +601,18 @@
           logo:  
           url: https://proxyip.edtunnel.best/
           description:
+        - title: 碧海反代IP测速源代码-01
+          logo:  
+          url: https://github.com/bh-qt/Cloudflare-IP-SpeedTest
+          description: 
+        - title: 原版的CF反代IP软件源代码-02
+          logo: 
+          url: https://github.com/badafans/Cloudflare-IP-SpeedTest
+          description: 
+        - title: CF反代IP软件源代码-03
+          logo: 
+          url: https://github.com/jackrun123/cfiptest
+          description: 
 
     - term: 购物及其他平台
       links:
@@ -1206,6 +1218,18 @@
           logo: 
           url: https://github.com/sleepwood/CF-Worker-Dir
           description: 视频教程https://www.youtube.com/watch?v=JsnPD4rvj9c
+        - title: 碧海反代IP测速源代码-01
+          logo:  
+          url: https://github.com/bh-qt/Cloudflare-IP-SpeedTest
+          description: 
+        - title: 原版的CF反代IP软件源代码-02
+          logo: 
+          url: https://github.com/badafans/Cloudflare-IP-SpeedTest
+          description: 
+        - title: CF反代IP软件源代码-03
+          logo: 
+          url: https://github.com/jackrun123/cfiptest
+          description: 
         - title: 手机投屏01
           logo: 
           url: https://github.com/barry-ran/QtScrcpy
@@ -1241,10 +1265,6 @@
         - title: 白哥软件库
           logo:  
           url: https://docs.bestip.one/
-          description: 
-        - title: 碧海反代IP测速源代码
-          logo:  
-          url: https://github.com/bh-qt/Cloudflare-IP-SpeedTest
           description: 
         - title: 不良林
           logo:  
@@ -1337,10 +1357,6 @@
         - title: STranslate-翻译-源代码
           logo: 
           url: https://github.com/ZGGSONG/STranslate
-          description: 
-        - title: 原版的CF反代IP软件源代码
-          logo: 
-          url: https://github.com/badafans/Cloudflare-IP-SpeedTest
           description: 
         - title: IDM替代品FDM软件-视频插件源代码
           logo:  
