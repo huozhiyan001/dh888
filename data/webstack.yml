@@ -179,6 +179,18 @@
       logo:  
       url: https://bulianglin.com/archives/cdn.html
       description: 节点测速工具：https://github.com/bulianglin/demo
+    - title: 长连接转短连接
+      logo:  
+      url: https://dlj.lanmao001.us.kg/dlj
+      description: 
+    - title: 节点订阅器转换01
+      logo:  
+      url: https://dyzh.ddym.us.kg/
+      description: 
+    - title: 节点订阅器转换02
+      logo:  
+      url: https://dyzh1002.xiaofcwr.dynv6.net/
+      description: 
 
 
 - taxonomy: 邮箱
@@ -1370,6 +1382,14 @@
           logo:  
           url: https://github.com/meowcateatrat/elephant
           description: 视频讲解---https://www.youtube.com/watch?v=1Yi-TAjEo7g
+        - title: 订阅转换源代码
+          logo: 
+          url: https://github.com/kobe-koto/EdgeSub
+          description: 
+        - title: 长连接转短连接源代码
+          logo: 
+          url: https://github.com/crazypeace/Url-Shorten-Worker/blob/main/worker.js
+          description: 
             
     - term: 魔法工具
       links:
@@ -1864,6 +1884,14 @@
         - title: 不良林博客关于fofa语法讲解
           logo: 
           url: https://www.youtube.com/watch?v=NbruiJShUCE&t=545s
+          description: 
+        - title: 订阅转换制作教程
+          logo: 
+          url: https://www.youtube.com/watch?v=n50vkn2InUU
+          description: 
+        - title: 长连接转短连接教程
+          logo: 
+          url: https://www.youtube.com/watch?v=dA6Ko9UmehM
           description: 
 
     - term: 4K/8K视频测试
