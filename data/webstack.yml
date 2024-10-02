@@ -179,9 +179,13 @@
       logo:  
       url: https://bulianglin.com/archives/cdn.html
       description: 节点测速工具：https://github.com/bulianglin/demo
-    - title: 长连接转短连接
+    - title: 长连接转短连接-自己做的
       logo:  
       url: https://dlj.lanmao001.us.kg/dlj
+      description: 
+    - title: 长连接转短连接-作者的
+      logo:  
+      url: https://1way.eu.org/bodongshouqulveweifengci
       description: 
     - title: 节点订阅器转换01
       logo:  
