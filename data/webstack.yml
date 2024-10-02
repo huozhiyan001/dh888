@@ -1579,6 +1579,18 @@
           logo: 
           url: https://www.microsoft.com/en-us/download/details.aspx?id=49117
           description: 
+        - title: 正则表达式-原版英文版
+          logo: 
+          url: https://regexr.com/
+          description: 
+        - title: 正则表达式-中文版
+          logo: 
+          url: https://regexr-cn.com/
+          description: 
+        - title: 正则表达式-可视化
+          logo: 
+          url: https://regex-vis.com/
+          description: 
 
 
 - taxonomy: 游戏频道
@@ -1896,6 +1908,10 @@
         - title: 长连接转短连接教程
           logo: 
           url: https://www.youtube.com/watch?v=dA6Ko9UmehM
+          description: 
+        - title: 正则表达式视频讲解
+          logo: 
+          url: https://www.youtube.com/watch?v=KjqJoJAuycE
           description: 
 
     - term: 4K/8K视频测试
