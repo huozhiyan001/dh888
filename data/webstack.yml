@@ -1544,6 +1544,10 @@
           logo: 
           url: https://xconfig.pages.dev/index2
           description: 有上千个节点
+        - title: 免费节点08
+          logo: 
+          url: https://github.com/wzdnzd/aggregator?tab=readme-ov-file
+          description: 
     
     - term: 办公与学习
       links:
