@@ -1298,6 +1298,10 @@
           logo:  
           url: https://github.com/yonggekkk/Cloudflare_vless_trojan
           description: 
+        - title: BPB面板搭建节点
+          logo:  
+          url: https://github.com/bia-pain-bache/BPB-Worker-Panel
+          description: 
         - title: AM科技源代码
           logo:  
           url: https://github.com/ansoncloud8/am-tunnel
@@ -1325,10 +1329,6 @@
         - title: 多用户屏幕共享
           logo:  
           url: https://github.com/screego/server?tab=readme-ov-file
-          description: 
-        - title: BPB面板搭建节点
-          logo:  
-          url: https://github.com/bia-pain-bache/BPB-Worker-Panel
           description: 
         - title: 2.2.5IP测速源代码
           logo:  
