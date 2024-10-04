@@ -1417,6 +1417,10 @@
             
     - term: 魔法工具
       links:
+         - title: 魔法工具软件库
+          logo: 
+          url: https://jichanggo.com/proxyclient
+          description:
         - title: 1.1.1.1官网
           logo: 
           url: https://one.one.one.one/
