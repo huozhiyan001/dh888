@@ -518,7 +518,11 @@
           logo:  
           url: https://addressesapi.090227.xyz/CloudFlareYes
           description:
-        - title: 安大略-优选IPV6
+        - title: 优选IPV4-love999大佬
+          logo:  
+          url: https://github.love999.us.kg/onlyno999/cf-workers-ipv4-cdn/main/ip.txt
+          description:
+        - title: 优选IPV6-love999大佬
           logo:  
           url: https://github.love999.us.kg/onlyno999/cf-workers-ipv6-cdn/main/ip.txt
           description:
