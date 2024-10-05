@@ -407,6 +407,10 @@
           logo: 
           url: https://ipcheck.ing/#/
           description: 
+        - title: IP地址查询ip.skk
+          logo: 
+          url: https://ip.skk.moe/
+          description: 
         - title: IP-API.com-IP查询
           logo: 
           url: https://ip-api.com/
