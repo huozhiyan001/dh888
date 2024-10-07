@@ -343,6 +343,10 @@
           logo: 
           url: https://defense.yunaq.com/tools/dnstranscoding/
           description: 
+        - title: dnsexit免费域名--不可以托管到CF上-可以做A记录解析
+          logo: 
+          url: https://dnsexit.com/users/signup/
+          description: 
         
         
     - term: 网络IP查询
