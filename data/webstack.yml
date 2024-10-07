@@ -255,6 +255,10 @@
           logo: 
           url: https://www.changeip.com/
           description: 无需开梯子
+        - title: dnsexit免费域名-不可以托管到CF上-可以做A记录解析
+          logo: 
+          url: https://dnsexit.com/users/signup/
+          description: 视频讲解-----https://www.youtube.com/watch?v=h30ytkC_BOU
         - title: 公益域名
           logo: 
           url: https://001316.xyz/
@@ -343,10 +347,6 @@
           logo: 
           url: https://defense.yunaq.com/tools/dnstranscoding/
           description: 
-        - title: dnsexit免费域名-不可以托管到CF上-可以做A记录解析
-          logo: 
-          url: https://dnsexit.com/users/signup/
-          description: 视频讲解-----https://www.youtube.com/watch?v=h30ytkC_BOU
         
         
     - term: 网络IP查询
