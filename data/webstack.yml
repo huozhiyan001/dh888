@@ -561,13 +561,17 @@
           logo:  
           url: https://ip.164746.xyz/
           description:
-        - title: 节点获取IP-01
+        - title: 反代ip获取-01
           logo:  
           url: https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
           description:
-        - title: 节点获取IP-02
+        - title: 反代ip获取-02
           logo:  
           url: https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
+          description:
+        - title: 反代ip获取-03
+          logo:  
+          url: https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
           description:
         - title: 节点工具网址1
           logo:  
