@@ -439,6 +439,10 @@
           logo: 
           url: https://speed.cloudflare.com/
           description: 
+        - title: 测速5
+          logo: 
+          url: http://ovo.speedtestcustom.com/
+          description: 
         - title: 测IP地址是在什么地区
           logo: 
           url: https://reallyfreegeoip.org/bulk#google_vignette
