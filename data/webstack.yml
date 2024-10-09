@@ -1484,51 +1484,51 @@
         - title: Nekoray电脑端
           logo: 
           url: https://github.com/MatsuriDayo/nekoray/releases
-          description:
-        - title: NekoBox安卓的
+          description: 
+        - title: NB4A安卓端
           logo: 
-          url: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
-          description:
+          url: https://github.com/MatsuriDayo/NekoBoxForAndroid
+          description: 
         - title: SingBox电脑端
           logo: 
           url: https://github.com/GUI-for-Cores/GUI.for.SingBox
-          description:
+          description: 
         - title: SingBox安卓端
           logo: 
           url: https://github.com/SagerNet/sing-box
-          description:
+          description: 
         - title: 伊朗大神MahsaNG安卓端
           logo: 
           url: https://github.com/GFW-knocker/MahsaNG
-          description:
+          description: 
         - title: 伊朗大神改版V2ray pro
           logo: 
           url: https://github.com/lowercase78/V2RayN-PRO
-          description:
+          description: 
         - title: flclash代理软件
           logo: 
           url: https://github.com/chen08209/FlClash
-          description:
+          description: 
         - title: 赛风VPN代理软件PsiCash
           logo: 
           url: https://psiphon.ca/
-          description:
+          description: 
         - title: FlClash代理软件
           logo: 
           url: https://github.com/chen08209/FlClash
-          description:
+          description: 
         - title: karing代理软件
           logo: 
           url: https://github.com/KaringX/karing
-          description:
+          description: 
         - title: NikaNG代理软件
           logo: 
           url: https://github.com/mahsanet/NikaNG
-          description:
+          description: 
         - title: SSH工具01-finalshel官网
           logo: 
           url: https://www.hostbuf.com/?install_fs
-          description:
+          description: 
 
     - term: 机场节点
       links:
