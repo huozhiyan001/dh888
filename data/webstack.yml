@@ -579,6 +579,10 @@
           description:
         - title: 反代ip获取-03
           logo:  
+          url: https://github.com/3g79/my
+          description:
+        - title: 反代ip获取-03
+          logo:  
           url: https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
           description:
         - title: 节点工具网址1
@@ -1528,6 +1532,10 @@
         - title: SSH工具01-finalshel官网
           logo: 
           url: https://www.hostbuf.com/?install_fs
+          description: 
+        - title: 魔法工具归类-01
+          logo: 
+          url: https://wiki.metacubex.one/startup/client/client/
           description: 
 
     - term: 机场节点
