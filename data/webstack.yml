@@ -411,6 +411,10 @@
           logo: 
           url: https://ipcheck.ing/#/
           description: 
+        - title: IP坐标查询
+          logo: 
+          url: https://ip.rtt.icu/
+          description: 
         - title: IP地址查询ip.skk
           logo: 
           url: https://ip.skk.moe/
