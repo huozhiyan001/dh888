@@ -199,6 +199,10 @@
       logo:  
       url: https://www.toolhelper.cn/Char/TextFilter
       description: 
+    - title: Trojan-密码转换器
+      logo:  
+      url: https://www.atatus.com/tools/sha224-to-hash
+      description: 
 
 
 - taxonomy: 邮箱
