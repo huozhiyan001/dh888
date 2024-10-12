@@ -518,11 +518,11 @@
                  
     - term: 优选与反代-及免费节点
       links:
-        - title: 碧海反代IPV4
+        - title: 碧海反代IPV4-IPV4
           logo:  
           url: https://bihai.cf/CFIP/
           description: 源代码地址https://github.com/bh-qt/Cloudflare-IP-SpeedTest
-        - title: 碧海反代IPV6
+        - title: 碧海优选IP-IPV6
           logo:  
           url: https://bihai.cf/CFIP/IPV6/
           description: 源代码地址https://github.com/bh-qt/Cloudflare-IP-SpeedTest
