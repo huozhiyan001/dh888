@@ -829,6 +829,10 @@
           logo:  
           url: https://ccp.cloudaccess.net/clientarea.php
           description: 我的博客
+        - title: CM大佬的博客
+          logo: 
+          url: https://vercel.blog.cmliussss.com/
+          description: 
         - title: 爱分享的小企鹅
           logo: 
           url: https://lovetoshare.top/archives/33.html
