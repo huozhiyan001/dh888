@@ -203,6 +203,10 @@
       logo:  
       url: https://www.atatus.com/tools/sha224-to-hash
       description: 
+    - title: 网页抠图
+      logo:  
+      url: https://images.batchtool.com/
+      description: 
 
 
 - taxonomy: 邮箱
