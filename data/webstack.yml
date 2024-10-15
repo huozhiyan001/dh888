@@ -1295,6 +1295,14 @@
           logo: 
           url: https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?pli=1
           description: 
+        - title: Youtube 双语字幕
+          logo: 
+          url: https://chromewebstore.google.com/detail/youtube-%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95/gmgolpfecnlplngkidbjagmpgidbokck
+          description: 
+        - title: YouTube 繁體自動翻譯修正
+          logo: 
+          url: https://chromewebstore.google.com/detail/youtube-%E7%B9%81%E9%AB%94%E8%87%AA%E5%8B%95%E7%BF%BB%E8%AD%AF%E4%BF%AE%E6%AD%A3/nghlhmhjdlbcgnmjffpeialapbcnajig?hl=zh-TW
+          description: 
         
     - term: 源代码
       links:
