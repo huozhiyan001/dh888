@@ -523,6 +523,10 @@
           logo:  
           url: https://chatgpt.com/?oai-dm=1
           description: 
+        - title: 查询IP地址
+          logo:  
+          url: https://whoer.com/zh/
+          description: 
                  
     - term: 优选与反代-及免费节点
       links:
