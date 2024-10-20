@@ -1104,6 +1104,10 @@
           logo:  
           url: https://www.freedownloadmanager.org/zh/
           description: 视频讲解---https://www.youtube.com/watch?v=1Yi-TAjEo7g
+        - title: 远景论坛
+          logo:  
+          url: https://bbs.pcbeta.com/
+          description: 
   
     - term: 浏览器插件及软件
       links:
