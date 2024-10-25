@@ -260,6 +260,10 @@
       logo: 
       url: https://mail.tm/zh/
       description: 
+    - title: 别名邮箱-博客
+      logo: 
+      url: https://appscross.com/blog/a-few-things-should-know-about-email.html
+      description: 视频讲解---https://www.youtube.com/watch?v=fenGkqUUkrM
       
 
 - taxonomy: 综合资源
@@ -2089,6 +2093,10 @@
           logo: 
           url: https://www.youtube.com/watch?v=FXMl9Dkhb5Y
           description: 博客地址---univzeros.notion.site
+        - title: 别名邮箱讲解
+          logo: 
+          url: https://www.youtube.com/watch?v=fenGkqUUkrM
+          description: 博客地址--https://appscross.com/blog/a-few-things-should-know-about-email.html
 
     - term: 4K/8K视频测试
       links:
