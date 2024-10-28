@@ -215,6 +215,10 @@
       logo:  
       url: https://images.batchtool.com/
       description: 
+    - title: 哔哩哔哩视频解析下载
+      logo:  
+      url: https://xbeibeix.com/api/bilibili/
+      description: 
 
 
 - taxonomy: 邮箱
@@ -375,17 +379,13 @@
         
     - term: 网络IP查询
       links:
-        - title: 获取反代IP官网
-          logo:  
-          url: https://www.onecn.eu.org/article/besturl
-          description:
-        - title: 优选反代IP网站
-          logo:  
-          url: https://ipdb.030101.xyz/bestproxy/
-          description:
-        - title: 查询自己IP
+        - title: 查询自己IP-1
           logo: 
           url: https://whoer.net/zh
+          description: 
+        - title: 查询IP地址-2
+          logo:  
+          url: https://whoer.com/zh/
           description: 
         - title: 查询自己IP00
           logo: 
@@ -535,10 +535,14 @@
           logo:  
           url: https://chatgpt.com/?oai-dm=1
           description: 
-        - title: 查询IP地址
+        - title: 获取反代IP官网
           logo:  
-          url: https://whoer.com/zh/
-          description: 
+          url: https://www.onecn.eu.org/article/besturl
+          description:
+        - title: 优选反代IP网站
+          logo:  
+          url: https://ipdb.030101.xyz/bestproxy/
+          description:
                  
     - term: 优选与反代-及免费节点
       links:
