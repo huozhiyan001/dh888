@@ -1751,6 +1751,14 @@
           logo: 
           url: https://github.com/zufuliu/notepad4
           description: 
+        - title: 抠图-网站
+          logo: 
+          url: https://huggingface.co/spaces/Xenova/remove-background-webgpu
+          description: 视频讲解---https://www.youtube.com/watch?v=koVG1PsTlQw
+        - title: 图片去水印-网站
+          logo: 
+          url: https://inpaintweb.lxfater.com/
+          description: 
 
 
 - taxonomy: 游戏频道
