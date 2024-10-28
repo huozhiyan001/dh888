@@ -1335,6 +1335,10 @@
           logo: 
           url: https://chromewebstore.google.com/detail/youtube-%E7%B9%81%E9%AB%94%E8%87%AA%E5%8B%95%E7%BF%BB%E8%AD%AF%E4%BF%AE%E6%AD%A3/nghlhmhjdlbcgnmjffpeialapbcnajig?hl=zh-TW
           description: 
+        - title: 哔哩哔哩网页下载助手插件
+          logo: 
+          url: https://csser.top/
+          description: 
         
     - term: 源代码
       links:
@@ -2109,6 +2113,10 @@
           logo: 
           url: https://www.youtube.com/watch?v=fenGkqUUkrM
           description: 博客地址--https://appscross.com/blog/a-few-things-should-know-about-email.html
+        - title: 如何快速下载B站视频教程
+          logo: 
+          url: https://www.youtube.com/watch?v=-MWLWIKUInU
+          description: 
 
     - term: 4K/8K视频测试
       links:
