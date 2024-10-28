@@ -1339,6 +1339,10 @@
           logo: 
           url: https://csser.top/
           description: 
+        - title: 猫爪-浏览器嗅探视频下载
+          logo: 
+          url: https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb
+          description: 
         
     - term: 源代码
       links:
@@ -1534,6 +1538,10 @@
           logo: 
           url: https://pan.b23.buzz/#/
           description: 6位密码---f4team
+        - title: 猫爪-浏览器嗅探视频下载源代码
+          logo: 
+          url: https://github.com/xifangczy/cat-catch
+          description: 
             
     - term: 魔法工具
       links:
