@@ -1831,6 +1831,13 @@
           url: https://www.kkyx.net/
           description: 
 
+    - term: 影视电影-连续剧
+      links:
+        - title: O站 欧派动漫
+          logo: 
+          url: https://www.opacg.com/
+          description: 
+          
     - term: 视频讲解
       links:
         - title: 导航网址-简单版
