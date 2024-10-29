@@ -1550,6 +1550,10 @@
           logo: 
           url: https://github.com/xifangczy/cat-catch
           description: 
+        - title: m3u8视频下载器
+          logo: 
+          url: https://github.com/nilaoda/N_m3u8DL-CLI
+          description: 
             
     - term: 魔法工具
       links:
@@ -2147,6 +2151,10 @@
         - title: 如何快速下载B站视频教程
           logo: 
           url: https://www.youtube.com/watch?v=-MWLWIKUInU
+          description: 
+        - title: 网页浏览器视频下载教程
+          logo: 
+          url: https://www.youtube.com/watch?v=wqwW17qDOuM
           description: 
 
     - term: 4K/8K视频测试
