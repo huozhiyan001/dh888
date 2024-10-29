@@ -1343,6 +1343,14 @@
           logo: 
           url: https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb
           description: 
+        - title: AdGuard 广告拦截器
+          logo: 
+          url: https://chromewebstore.google.com/?hl=zh-CN&utm_source=ext_sidebar
+          description: 
+        - title: Global Speed: 视频加速器
+          logo: 
+          url: https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-CN&utm_source=ext_sidebar
+          description: 
         
     - term: 源代码
       links:
