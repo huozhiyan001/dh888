@@ -1831,11 +1831,19 @@
           url: https://www.kkyx.net/
           description: 
 
-    - term: 影视电影-连续剧
+    - term: 影视电影
       links:
         - title: O站 欧派动漫
           logo: 
           url: https://www.opacg.com/
+          description: 
+        - title: 动漫共和国
+          logo: 
+          url: https://animerep.com/
+          description: 
+        - title: 搜片
+          logo: 
+          url: https://soupian.one/
           description: 
           
     - term: 视频讲解
