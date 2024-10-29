@@ -219,6 +219,10 @@
       logo:  
       url: https://xbeibeix.com/api/bilibili/
       description: 
+    - title: 网页视频解析-工具
+      logo:  
+      url: https://youtube.iiilab.com/
+      description: 有个BUG视频没有声音
 
 
 - taxonomy: 邮箱
