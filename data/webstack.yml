@@ -1128,6 +1128,10 @@
           logo:  
           url: https://bbs.pcbeta.com/
           description: 
+        - title: 数字宝库-资源百宝箱
+          logo:  
+          url: https://s1wc4f0mhmo.feishu.cn/wiki/CYlewB1ajiIu1tkBHCIc8kAbnQb
+          description: 
   
     - term: 浏览器插件及软件
       links:
@@ -1568,6 +1572,10 @@
         - title: m3u8视频下载器
           logo: 
           url: https://github.com/nilaoda/N_m3u8DL-CLI
+          description: 
+        - title: mediago视频下载
+          logo: 
+          url: https://github.com/caorushizi/mediago
           description: 
             
     - term: 魔法工具
