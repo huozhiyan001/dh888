@@ -174,7 +174,7 @@
     - title: 我的WARP+Key地址
       logo:  
       url: https://replit.com/@huoyanzhi888a1/kKe-Ji-Gong-Xiang-warp-key-generator
-      description: 视频讲解---https://www.youtube.com/watch?v=zcx74ZHI7n8
+      description: 
     - title: WARP+Key激活码获取
       logo:  
       url: https://github.com/ircfspace/warpkey?tab=readme-ov-file
@@ -182,11 +182,11 @@
     - title: 不良林大佬-CDN节点优选IP工具
       logo:  
       url: https://bulianglin.com/archives/cdn.html
-      description: 节点测速工具：https://github.com/bulianglin/demo
+      description: 
     - title: 节点的BASE64加密
       logo:  
       url: https://tool.oschina.net/encrypt?type=3
-      description: 视频讲解------https://www.youtube.com/watch?v=vui8ij9A8U0
+      description: 
     - title: 长连接转短连接-自己做的
       logo:  
       url: https://dlj.lanmao001.us.kg/dlj
@@ -222,7 +222,7 @@
     - title: 网页视频解析-工具
       logo:  
       url: https://youtube.iiilab.com/
-      description: 有个BUG视频没有声音
+      description: 
 
 
 - taxonomy: 邮箱
@@ -271,7 +271,7 @@
     - title: 别名邮箱-博客
       logo: 
       url: https://appscross.com/blog/a-few-things-should-know-about-email.html
-      description: 视频讲解---https://www.youtube.com/watch?v=fenGkqUUkrM
+      description: 
       
 
 - taxonomy: 综合资源
@@ -290,11 +290,11 @@
         - title: dnsexit免费域名-不可以托管到CF上-可以做A记录解析
           logo: 
           url: https://dnsexit.com/users/signup/
-          description: 视频讲解-----https://www.youtube.com/watch?v=h30ytkC_BOU
+          description: 
         - title: 公益域名
           logo: 
           url: https://001316.xyz/
-          description: CM频道里面叫周润发的--账号密码：zrfur19---博客---https://001315.xyz/
+          description: 
         - title: 每年0.67美元顶级域名后缀名xyz
           logo: 
           url: https://www.spaceship.com/
@@ -342,7 +342,7 @@
         - title: 永久免费3个US.KG域名-公益域名
           logo: 
           url: https://register.us.kg/panel/main
-          description: 使用教程https://www.youtube.com/watch?v=tHjgouUbE3c
+          description: 
         - title: 免费域名-波斯文
           logo: 
           url: https://www.registry.com.mp/
@@ -478,7 +478,7 @@
         - title: fofa单个国家IP查询
           logo: 
           url: https://fofa.info/
-          description: server=="cloudflare" && port=="80" && header="Forbidden" && country=="CN"
+          description: 
         - title: UUID生成网站
           logo:  
           url: https://www.uuidgenerator.net/
@@ -506,7 +506,7 @@
         - title: 自己小3@上做的美国生成器usdz240923
           logo: 
           url: https://usdz.lmfx.cloudns.ch/
-          description: 视频教程----https://www.youtube.com/watch?v=iHXb6pDA7k4
+          description: 
         - title: 大陆地址生成器
           logo: 
           url: https://www.meiguodizhi.com/cn-address
@@ -526,7 +526,7 @@
           title: 查询IP是否被阻断
           logo:  
           url: https://ping.pe/
-          description: 格式为IP冒号+端口
+          description: 
         - title: 域名反向查找IP
           logo:  
           url: https://who.is/
@@ -549,11 +549,11 @@
         - title: 碧海反代IPV4-IPV4
           logo:  
           url: https://bihai.cf/CFIP/
-          description: 源代码地址https://github.com/bh-qt/Cloudflare-IP-SpeedTest
+          description: 
         - title: 碧海优选IP-IPV6
           logo:  
           url: https://bihai.cf/CFIP/IPV6/
-          description: 源代码地址https://github.com/bh-qt/Cloudflare-IP-SpeedTest
+          description: 
         - title: 优选ip库01
           logo:  
           url: https://github.com/ymyuuu/IPDB
@@ -592,7 +592,7 @@
         - title: 3K大佬IP库-支付宝购买链接
           logo:  
           url: https://shop.rtt.icu/sponsor
-          description: 3K大佬Tg群----https://t.me/edtunnel_chat
+          description: 
         - title: CF优选IP下载地址
           logo:  
           url: https://zip.baipiao.eu.org
@@ -680,7 +680,7 @@
         - title: 免费节点06
           logo:  
           url: https://github.com/Epodonios/v2ray-configs
-          description: 视频教程https://www.youtube.com/watch?v=I7j9OCcG9bQ
+          description: 
         - title: 小5号上制作的免费节点-ddd0826
           logo:  
           url: https://ddd0826.1-3a5.workers.dev/7b986c0e-55dc-4c34-ad0d-369afee6950f/configs?sub=list
@@ -904,7 +904,7 @@
         - title: 科技共享-反代IP获取
           logo: 
           url: https://kjgx668.blogspot.com/2024/10/vpnip-vpn10kbpsproxyip-8k-v2raynsing.html
-          description: 视频教程---https://www.youtube.com/watch?v=sROjyyKFsmE
+          description: 
         - title: gqgtpc论坛
           logo: 
           url: https://www.gqgtpc.com/
@@ -1127,7 +1127,7 @@
         - title: IDM替代品FDM软件
           logo:  
           url: https://www.freedownloadmanager.org/zh/
-          description: 视频讲解---https://www.youtube.com/watch?v=1Yi-TAjEo7g
+          description: 
         - title: 远景论坛
           logo:  
           url: https://bbs.pcbeta.com/
@@ -1202,7 +1202,7 @@
         - title: 超级复制Toggle JavaScript
           logo: 
           url: https://chromewebstore.google.com/detail/toggle-javascript/cidlcjdalomndpeagkjpnefhljffbnlo?hl=zh-CN&utm_source=ext_sidebar
-          description: 不用把他关掉, 不然会卡
+          description: 
         - title: 购物党自动比价工具
           logo: 
           url: https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah?hl=zh-CN
@@ -1322,11 +1322,11 @@
         - title: youtube“半自动”跳过广告-屏蔽广告
           logo: 
           url: https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=zh-CN&utm_source=ext_sidebar
-          description: 视频教程---https://www.youtube.com/watch?v=-Ofx7RLZ2go
+          description: 
         - title: 夜班-黑暗閱讀器模式
           logo: 
           url: https://chromewebstore.google.com/detail/%E5%A4%9C%E7%8F%AD-%E9%BB%91%E6%9A%97%E9%96%B1%E8%AE%80%E5%99%A8%E6%A8%A1%E5%BC%8F/pdpfhanekfkeijhemmfbnnjffiblgefi?hl=zh-CN&utm_source=ext_sidebar
-          description: 视频教程---https://www.youtube.com/watch?v=z0qQ-IiOv58
+          description: 
         - title: MaxFocus-链接预览和AI助手
           logo: 
           url: https://chromewebstore.google.com/detail/maxfocus-%E9%93%BE%E6%8E%A5%E9%A2%84%E8%A7%88%E5%92%8Cai%E5%8A%A9%E6%89%8B/bnacincmbaknlbegecpioobkfgejlojp?hl=zh-CN&utm_source=ext_sidebar
@@ -1404,7 +1404,7 @@
         - title: 导航源代码-轻量级04
           logo: 
           url: https://github.com/sleepwood/CF-Worker-Dir
-          description: 视频教程https://www.youtube.com/watch?v=JsnPD4rvj9c
+          description: 
         - title: 碧海反代IP测速源代码-01
           logo:  
           url: https://github.com/bh-qt/Cloudflare-IP-SpeedTest
@@ -1452,7 +1452,7 @@
         - title: AM科技源代码
           logo:  
           url: https://github.com/ansoncloud8/am-tunnel
-          description: 仓库地址---https://github.com/ansoncloud8
+          description: 
         - title: 白哥软件库
           logo:  
           url: https://docs.bestip.one/
@@ -1520,7 +1520,7 @@
         - title: 鼠标指针Bibata_Cursor开源地址
           logo: 
           url: https://github.com/ful1e5/Bibata_Cursor
-          description: 视频讲解----https://www.youtube.com/watch?v=NJMlMQX4YEU
+          description: 
         - title: OurTV电视直播01
           logo: 
           url: https://github.com/andandroidor/ourtv
@@ -1532,7 +1532,7 @@
         - title: TVbox电视直播03
           logo: 
           url: https://kjgx668.blogspot.com/2024/09/blog-post.html
-          description: 需要借助TVbox助手来看视频教程---https://www.youtube.com/watch?v=BgpKbzRBYUU
+          description: 
         - title: my_tv电视直播04
           logo: 
           url: https://github.com/yaoxieyoulei/my_tv
@@ -1548,7 +1548,7 @@
         - title: IDM替代品FDM软件-视频插件源代码
           logo:  
           url: https://github.com/meowcateatrat/elephant
-          description: 视频讲解---https://www.youtube.com/watch?v=1Yi-TAjEo7g
+          description: 
         - title: 订阅转换源代码
           logo: 
           url: https://github.com/kobe-koto/EdgeSub
@@ -1568,7 +1568,7 @@
         - title: 哔哩哔哩助手源代码
           logo: 
           url: https://github.com/Richasy/Bili.Copilot
-          description: 视频讲解---https://www.youtube.com/watch?v=CmH5V6zONuo
+          description: 
         - title: Motrix百度网盘下载解析
           logo: 
           url: https://github.com/agalwood/Motrix
@@ -1592,7 +1592,7 @@
         - title: 一键加速 GitHub开源地址
           logo: 
           url: https://github.com/521xueweihan/GitHub520
-          description: 视频教程---https://www.youtube.com/watch?v=7j3kDvyQLgc
+          description: 
             
     - term: 魔法工具
       links:
@@ -1651,7 +1651,7 @@
         - title: mihomo-party电脑端
           logo: 
           url: https://github.com/mihomo-party-org/mihomo-party
-          description: 官网主页----https://mihomo.party/
+          description: 
         - title: 伊朗大神MahsaNG安卓端
           logo: 
           url: https://github.com/GFW-knocker/MahsaNG
@@ -1734,11 +1734,11 @@
         - title: 免费节点01
           logo: 
           url: https://itsyebekhe.github.io/HiN-VPN/
-          description: 下面代固定国家
+          description: 
         - title: 免费节点02
           logo: 
           url: https://xconfig.pages.dev/index2
-          description: 有上千个节点
+          description: 
         - title: 免费节点08
           logo: 
           url: https://github.com/wzdnzd/aggregator?tab=readme-ov-file
@@ -1821,7 +1821,7 @@
         - title: 抠图-网站
           logo: 
           url: https://huggingface.co/spaces/Xenova/remove-background-webgpu
-          description: 视频讲解---https://www.youtube.com/watch?v=koVG1PsTlQw
+          description: 
         - title: 图片去水印-网站
           logo: 
           url: https://inpaintweb.lxfater.com/
@@ -1829,7 +1829,7 @@
         - title: Office-Tool-office365
           logo: 
           url: https://github.com/YerongAI/Office-Tool
-          description: 软件官网---https://otp.landian.vip/zh-cn/
+          description: 
 
 
 - taxonomy: 游戏频道
@@ -1934,7 +1934,7 @@
         - title: 手机投屏02教程
           logo: 
           url: https://www.youtube.com/watch?v=4VQ2KFgrmJw
-          description: 开源地址https://github.com/Genymobile/scrcpy
+          description: 
         - title: 通过CF免费部署VLESS节点
           logo: 
           url: https://www.youtube.com/watch?v=PXZbvd5nZaA
@@ -2010,7 +2010,7 @@
         - title: 11种大模型AI使用教程
           logo: 
           url: https://www.youtube.com/watch?v=Z1_uB6eS2Wg
-          description: 地址在这里https://chat.notdiamond.ai/
+          description: 
         - title: 已知优选IP如何手搓生成无数个节点
           logo: 
           url: https://www.youtube.com/watch?v=4zjKuF0cY0M&t=498s
@@ -2034,7 +2034,7 @@
         - title: US.KG域名教程带教你续签和申请高级通用证书
           logo: 
           url: https://www.youtube.com/watch?v=TVkLIwJnIYs
-          description: 这个是CM大佬教程---https://www.youtube.com/watch?v=tHjgouUbE3c
+          description: 
         - title: 谷歌浏览器66个Chrome技巧
           logo: 
           url: https://www.youtube.com/watch?v=MD1XE2LBKbc
@@ -2046,7 +2046,7 @@
         - title: 3款电视上看的直播电视
           logo: 
           url: https://www.youtube.com/watch?v=BgpKbzRBYUU
-          description: 博客地址----https://kjgx668.blogspot.com/2024/09/blog-post.htm
+          description: 
         - title: 非会员-夸克网盘如何提速
           logo: 
           url: https://www.youtube.com/watch?v=kSILMypnodk
@@ -2062,7 +2062,7 @@
         - title: office365部署讲解240929
           logo: 
           url: https://www.youtube.com/watch?v=tEDMSCYbudI
-          description: 视频博客-----https://cyber.suma.tw/free-office-deployment-activation/#CMD_Command
+          description: 
         - title: 不良林博客关于fofa语法讲解
           logo: 
           url: https://www.youtube.com/watch?v=NbruiJShUCE&t=545s
@@ -2098,11 +2098,11 @@
         - title: 一个脚本获取12个高速ss节点
           logo: 
           url: https://www.youtube.com/watch?v=FXMl9Dkhb5Y
-          description: 博客地址---univzeros.notion.site
+          description: 
         - title: 别名邮箱讲解
           logo: 
           url: https://www.youtube.com/watch?v=fenGkqUUkrM
-          description: 博客地址--https://appscross.com/blog/a-few-things-should-know-about-email.html
+          description: 
         - title: 如何快速下载B站视频教程
           logo: 
           url: https://www.youtube.com/watch?v=-MWLWIKUInU
