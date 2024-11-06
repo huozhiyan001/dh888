@@ -359,10 +359,6 @@
           logo: 
           url: https://www.gname.com/
           description: 
-        - title: 日本二级域名
-          logo: 
-          url: https://www.mydns.jp/#intro
-          description: 没什么用
         - title: SSH工具-WindTerm
           logo: 
           url: https://github.com/kingToolbox/WindTerm/tree/2.6.0
@@ -1911,33 +1907,13 @@
           logo: 
           url: https://www.youtube.com/watch?v=JDwK4dw8UeA
           description: 
-        - title: 节点制作01
-          logo: 
-          url: https://www.youtube.com/watch?v=L46M6Xyahm0
-          description: 
-        - title: 节点制作02
-          logo: 
-          url: https://www.youtube.com/watch?v=K9GKqvViqW0
-          description: 
         - title: 谷歌浏览器背景颜色设置黑色
           logo: 
           url: https://www.youtube.com/watch?v=xqKYRoapC20
           description: 
-        - title: BPB面板搭建节点教程
-          logo: 
-          url: https://www.youtube.com/watch?v=jD7EHXpDa30
-          description: 
-        - title: 搭建3K大佬节点
-          logo: 
-          url: https://www.youtube.com/watch?v=Y_YvewZwZg0
-          description: 
         - title: 免费infinityfree-VPS云主机注册教程
           logo: 
           url: https://www.youtube.com/watch?v=m3-cmCBmF3o
-          description: 
-        - title: 智能量化赚USDT平台
-          logo: 
-          url: https://www.youtube.com/watch?v=gJ0xnJPafHk
           description: 
         - title: VPS搭建教程
           logo: 
@@ -1963,49 +1939,17 @@
           logo: 
           url: https://www.youtube.com/watch?v=PXZbvd5nZaA
           description: 
-        - title: 免费节点
-          logo: 
-          url: https://www.youtube.com/watch?v=hqzO9DamcvQ
-          description: 
-        - title: 伊朗人的订阅节点教程01
-          logo: 
-          url: https://www.youtube.com/watch?v=cNauurQhHJQ
-          description: 
-        - title: 伊朗人的订阅节点教程02
-          logo: 
-          url: https://www.youtube.com/watch?v=a1Uxih8jPyw
-          description: 
         - title: 利用赛风Psiphon来固定IP教程
           logo: 
           url: https://www.youtube.com/watch?v=tb9Lcfdr0Ew&t=105s
-          description: 
-        - title: 固定IP教程01
-          logo: 
-          url: https://www.youtube.com/watch?v=m_wvr4kVGek&t=539s
-          description: 
-        - title: 固定IP教程02
-          logo: 
-          url: https://www.youtube.com/watch?v=92QMGgUwed8
           description: 
         - title: 用FlClash代理软件
           logo: 
           url: https://www.youtube.com/watch?v=puRuk7CQqYo
           description: 
-        - title: 解锁ChatGPT和奈飞的反代ip教程
-          logo: 
-          url: https://www.youtube.com/watch?v=K9GKqvViqW0
-          description: 
-        - title: 各国CDN-IP自由
-          logo: 
-          url: https://www.youtube.com/watch?v=Q6pgtF6DVcI
-          description: 
         - title: workingvpn浏览器VPN教程
           logo: 
           url: https://www.youtube.com/watch?v=3XqNkj6Sr08
-          description: 
-        - title: 寻找反代IP
-          logo: 
-          url: https://www.youtube.com/watch?v=NbruiJShUCE
           description: 
         - title: YDNS二级域名筛选IP
           logo: 
@@ -2027,29 +1971,13 @@
           logo: 
           url: https://www.youtube.com/watch?v=nUb5v8NOaMo
           description: 
-        - title: 免费节点博客获取视频教程01
-          logo: 
-          url: https://www.youtube.com/watch?v=GN8f_mgPoIo
-          description: 
-        - title: 免费节点博客获取视频教程02
-          logo: 
-          url: https://www.youtube.com/watch?v=Uqx0NGWNgCU
-          description: 
         - title: 利用坚果云盘来备份FLclash代理软件
           logo: 
           url: https://www.youtube.com/watch?v=0ILKBsxKBOI
           description: 
-        - title: 免费白嫖节点获取教程
-          logo: 
-          url: https://www.youtube.com/watch?v=WOVomcsc9EI
-          description: 
         - title: NikaNG代理软件使用教程
           logo: 
           url: https://www.youtube.com/watch?v=BqK4rm8NtzA
-          description:
-        - title: VPS-serv00搭建节点使用教程
-          logo: 
-          url: https://www.youtube.com/watch?v=tVtclx_58yM
           description:
         - title: 5款SSH工具介绍
           logo: 
@@ -2079,10 +2007,6 @@
           logo: 
           url: https://www.youtube.com/watch?v=3Lnt1B87EO4
           description:
-        - title: chormego节点免费拿
-          logo: 
-          url: https://youtu.be/5zm1e2SY1MU
-          description:
         - title: 11种大模型AI使用教程
           logo: 
           url: https://www.youtube.com/watch?v=Z1_uB6eS2Wg
@@ -2107,14 +2031,6 @@
           logo: 
           url: https://www.youtube.com/watch?v=hZOOsQLzIJo
           description: 
-        - title: CloudFlare搭建博客究极教程
-          logo: 
-          url: https://www.youtube.com/watch?v=Zij4EcehANk&t=777s
-          description: 
-        - title: karing电脑端使用加餐
-          logo: 
-          url: https://www.youtube.com/watch?v=gMQfHLGjvzY&t=52s
-          description: 
         - title: US.KG域名教程带教你续签和申请高级通用证书
           logo: 
           url: https://www.youtube.com/watch?v=TVkLIwJnIYs
@@ -2130,18 +2046,10 @@
         - title: 3款电视上看的直播电视
           logo: 
           url: https://www.youtube.com/watch?v=BgpKbzRBYUU
-          description: 博客地址----https://kjgx668.blogspot.com/2024/09/blog-post.html
-        - title: Cloudflare WARP+复活版全新使用MASQUE新协议
-          logo: 
-          url: https://www.youtube.com/watch?v=Eb1v9J4n59g&t=46s
-          description: 
+          description: 博客地址----https://kjgx668.blogspot.com/2024/09/blog-post.htm
         - title: 非会员-夸克网盘如何提速
           logo: 
           url: https://www.youtube.com/watch?v=kSILMypnodk
-          description: 
-        - title: 安卓TV电视直播源+播放器
-          logo: 
-          url: https://www.youtube.com/watch?v=f7pr7JAV5cc
           description: 
         - title: 获取Warp2000万GB免费流量
           logo: 
@@ -2217,18 +2125,6 @@
         - title: 视频01
           logo: 
           url: https://www.youtube.com/watch?v=k_DswGGJd4E
-          description: 
-        - title: 视频02
-          logo: 
-          url: https://www.youtube.com/watch?v=6y5CqAHxGX0
-          description: 
-        - title: 8K视频01
-          logo: 
-          url: https://www.youtube.com/watch?v=yl_ZLBwa4cA
-          description: 
-        - title: 4K黑神话01
-          logo: 
-          url: https://www.youtube.com/watch?v=1bUAqRozxUM
           description: 
          
     - term: 导航网站
