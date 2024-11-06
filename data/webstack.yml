@@ -35,6 +35,10 @@
       logo:  
       url: https://chatgpt.com/?oai-dm=1
       description: 
+    - title: AI模型
+      logo:  
+      url: https://www.getmerlin.in/chat
+      description: 
     - title: Chat100-ai
       logo:  
       url: https://chat100.ai/zh-CN
