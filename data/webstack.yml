@@ -1016,10 +1016,6 @@
           logo: 
           url: https://www.charlesproxy.com/latest-release/download.do
           description:
-        - title: 悦宇玩机
-          logo: 
-          url: https://heihei.run
-          description:
         - title: 百度云网盘
           logo: 
           url: http://pan.baidu.com/disk/home
@@ -1039,10 +1035,6 @@
         - title: 系统之家论坛
           logo: 
           url: http://www.cncye.com/forum.php
-          description:
-        - title: 雪域工作室
-          logo: 
-          url: https://www.xueyu521.cn
           description:
         - title: 淘宝网
           logo: 
@@ -2148,6 +2140,10 @@
         - title: 导航网站-简单导航0914-4
           logo: 
           url: https://dh0914.958878.xyz/
+          description: 
+        - title: 小5号-完整版-备用
+          logo: 
+          url: https://dh999.266966.xyz/
           description: 
         - title: 导航网站-精简版02(备用网站)
           logo: 
