@@ -1449,6 +1449,14 @@
           logo:  
           url: https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js
           description: 
+        - title: CM大佬edgetunnel(VLESS)项目地址
+          logo:  
+          url: https://github.com/cmliu/edgetunnel
+          description: 
+        - title: CM大佬epeius(Trojan)项目地址
+          logo:  
+          url: https://github.com/cmliu/epeius
+          description: 
         - title: CM大佬
           logo:  
           url: https://github.com/cmliu
@@ -2142,6 +2150,14 @@
         - title: 全自动获取免费机场节点订阅方法
           logo: 
           url: https://www.youtube.com/watch?v=SvUtTw4MrIQ
+          description: 
+        - title: CM大佬节点制作
+          logo: 
+          url: https://www.youtube.com/watch?v=oRYnrp5rQSc&t=798s
+          description: 
+        - title: 几个二级域名可以托管CF的Pages上教程
+          logo: 
+          url: https://www.youtube.com/watch?v=wHJ6TJiCF0s&t=96s
           description: 
 
     - term: 4K/8K视频测试
