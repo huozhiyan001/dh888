@@ -355,14 +355,22 @@
           logo: 
           url: https://register.us.kg/panel/main
           description: 
-        - title: 免费域名-波斯文
-          logo: 
-          url: https://www.registry.com.mp/
-          description: 需要用到谷歌验证器
         - title: hostry免费dns解析
           logo: 
           url: https://hostry.com/
           description: 
+        - title: 波斯文域名
+          logo: 
+          url: https://www.registry.com.mp/
+          description: 需要用到谷歌验证器
+        - title: sitelutions二级域名
+          logo: 
+          url: https://www.sitelutions.com/
+          description: 
+        - title: he托管rr.nu二级域名
+          logo: 
+          url: https://he.net/
+          description: 需要干净的IP才能登陆和注册
         - title: 免费infinityfree-VPS云主机
           logo: 
           url: https://www.infinityfree.com/
