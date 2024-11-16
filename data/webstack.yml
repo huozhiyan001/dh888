@@ -455,6 +455,10 @@
           logo: 
           url: https://ipinfo.io/
           description: 
+        - title: IP检测-检测您的IP质量
+          logo: 
+          url: https://ipjiance.com/
+          description: 
         - title: 查看自己的IP地址
           logo: 
           url: https://ipcheck.ing/#/
