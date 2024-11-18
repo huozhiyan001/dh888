@@ -335,21 +335,21 @@
           logo: 
           url: https://www.xshell.com/zh/free-for-home-school/
           description:
-        - title: dynv6二级域名
-          logo: 
-          url: https://dynv6.com/
-          description: 
         - title: freedomain二级域名
           logo: 
           url: https://freedomain.one/
           description: 
-        - title: L53二级域名
-          logo:  
-          url: https://customer.l53.net/
+        - title: dynv6二级域名
+          logo: 
+          url: https://dynv6.com/
           description: 
         - title: 双向解析域名cloudns
           logo: 
           url: https://www.cloudns.net/main/
+          description: 
+        - title: L53二级域名
+          logo:  
+          url: https://customer.l53.net/
           description: 
         - title: US.KG域名-3个公益域名
           logo: 
