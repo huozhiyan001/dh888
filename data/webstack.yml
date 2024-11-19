@@ -1653,6 +1653,14 @@
           logo: 
           url: https://github.com/xM4ddy/OFGB
           description: 
+        - title: CM大佬的ASN2CIDRs
+          logo: 
+          url: https://github.com/cmliu/ASN2CIDRs
+          description: 
+        - title: 甲骨文首尔的三网CN2 GIA线路
+          logo: 
+          url: https://hostloc.com/thread-1365396-1-1.html
+          description: 
             
     - term: 魔法工具
       links:
