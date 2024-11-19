@@ -1744,6 +1744,22 @@
           logo: 
           url: https://wiki.metacubex.one/startup/client/client/
           description: 
+        - title: Base64编码工具
+          logo: 
+          url: https://base64.us/
+          description: 
+        - title: 生成订阅器03
+          logo: 
+          url: https://www.mynb8.com/
+          description: 
+        - title: 生成短连接04
+          logo: 
+          url: https://goo.su/
+          description: 
+        - title: 生成短连接05
+          logo: 
+          url: https://pb.jiedianxielou.workers.dev/
+          description: 
 
     - term: 机场节点
       links:
