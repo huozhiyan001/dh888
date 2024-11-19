@@ -27,14 +27,18 @@
       logo:  
       url: https://yelisms.lat/user/home#
       description:
+    - title: ChatGpt官网
+      logo:  
+      url: https://chatgpt.com/?oai-dm=1
+      description:  
+    - title: 谷歌云盘
+      logo:  
+      url: https://drive.google.com/drive/home
+      description: 
     - title: 住宅IP代理浏览器
       logo:  
       url: https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/
       description:  
-    - title: ChatGpt官网
-      logo:  
-      url: https://chatgpt.com/?oai-dm=1
-      description: 
     - title: AI模型
       logo:  
       url: https://www.getmerlin.in/chat
