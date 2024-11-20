@@ -1176,6 +1176,10 @@
           logo:  
           url: https://dotnet.microsoft.com/zh-cn/download
           description: 
+        - title: 苹果官网切换不同国家/地区AppleID
+          logo:  
+          url: https://www.apple.com/
+          description: 视频教程---https://www.youtube.com/watch?v=RpSLvHggtd0
   
     - term: 浏览器插件及软件
       links:
