@@ -811,6 +811,10 @@
           
     - term: 金融中心
       links:
+        - title: WildCard虚拟信用卡
+          logo: 
+          url: https://bewildcard.com/card
+          description: 
         - title: Fomecard虚拟信用卡
           logo: 
           url: https://tsy.fomecard.top
