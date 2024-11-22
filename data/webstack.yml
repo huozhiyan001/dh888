@@ -327,6 +327,10 @@
           logo:  
           url: https://account.godaddy.com/products
           description: 
+        - title: namecheap域名后缀.site
+          logo:  
+          url: https://www.namecheap.com/
+          description: 
         - title: vultr-VPS官网
           logo: 
           url: https://www.vultr.com/
