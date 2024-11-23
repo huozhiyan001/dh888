@@ -248,9 +248,21 @@
       logo:  
       url: https://www.microsoft.com/zh-cn/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
       description: 
+    - title: 2925邮箱-无限邮
+      logo: 
+      url: https://2925.com/#/
+      description: 
     - title: QQ邮箱
       logo: 
       url: https://mail.qq.com/?cancel_login=true&from=session_timeout
+      description: 
+    - title: 新浪邮箱
+      logo: 
+      url: https://m0.mail.sina.com.cn/
+      description: 
+    - title: 163邮箱-网易
+      logo: 
+      url: https://mail.163.com/
       description: 
     - title: 临时邮箱01
       logo: 
@@ -279,10 +291,6 @@
     - title: 临时邮箱07
       logo: 
       url: https://temp-mail.org/zh/
-      description: 
-    - title: 2925邮箱-无限邮
-      logo: 
-      url: https://2925.com/#/
       description: 
     - title: 别名邮箱-博客
       logo: 
