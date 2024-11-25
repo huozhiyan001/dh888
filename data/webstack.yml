@@ -1200,6 +1200,10 @@
           logo:  
           url: https://www.i4.cn/
           description: 
+        - title: FDM下载器
+          logo:  
+          url: https://www.freedownloadmanager.org/zh/
+          description: 
   
     - term: 浏览器插件及软件
       links:
@@ -1427,9 +1431,13 @@
           logo: 
           url: https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-CN&utm_source=ext_sidebar
           description: 
-        - title: abd下载插件
+        - title: abd下载器插件
           logo: 
           url: https://chromewebstore.google.com/detail/ab-download-manager-brows/bbobopahenonfdgjgaleledndnnfhooj?pli=1
+          description: 
+        - title: Free Download Manager下载器插件
+          logo: 
+          url: https://chromewebstore.google.com/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp
           description: 
 
     - term: 油猴子内插件
