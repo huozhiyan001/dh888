@@ -1705,6 +1705,10 @@
           logo: 
           url: https://github.com/Nekogram/Nekogram
           description: 
+        - title: Worker-Free-Vless免费获取节点
+          logo: 
+          url: https://github.com/XyHK-HUC/Worker-Free-Vless
+          description: 
             
     - term: 魔法工具
       links:
