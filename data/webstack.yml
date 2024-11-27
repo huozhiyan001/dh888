@@ -1709,6 +1709,30 @@
           logo: 
           url: https://github.com/XyHK-HUC/Worker-Free-Vless
           description: 
+        - title: 源代码编译-混淆-节点搭建01
+          logo: 
+          url: 
+          description: 
+        - title: 源代码编译-混淆-节点搭建02
+          logo: 
+          url: https://github.com/keaeye/WyKeaeye
+          description: 
+        - title: 
+          logo: 
+          url: https://github.com/QWsudo/JavascriptCodeConfusion
+          description: 
+        - title: 源代码编译-混淆-01
+          logo: 
+          url: https://toolonline.net/js-obfuscator
+          description: 
+        - title: 源代码编译-混淆-02
+          logo: 
+          url: https://obfuscator.io/
+          description: 
+        - title: 源代码编译-混淆-03
+          logo: 
+          url: https://www.json.cn/jshx/
+          description: 
             
     - term: 魔法工具
       links:
