@@ -594,6 +594,14 @@
           logo:  
           url: https://bihai.cf/CFIP/IPV6/
           description: 
+        - title: ipdb-ipv4
+          logo:  
+          url: https://ipdb.api.030101.xyz/?type=cfv4;proxy
+          description: 
+        - title: ipdb-ipv6
+          logo:  
+          url: https://ipdb.api.030101.xyz/?type=cfv6;proxy
+          description: 
         - title: 优选ip库01
           logo:  
           url: https://github.com/ymyuuu/IPDB
