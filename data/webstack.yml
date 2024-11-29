@@ -835,10 +835,6 @@
           logo: 
           url: https://bewildcard.com/card
           description: 
-        - title: Fomecard虚拟信用卡
-          logo: 
-          url: https://tsy.fomecard.top
-          description: 
         - title: 飞扬卡平台
           logo: 
           url: https://sh5.live/vc_web/main.html#/home
@@ -1867,10 +1863,6 @@
           logo: 
           url: https://mojie.info/#/login
           description: 
-        - title: 赔钱机场
-          logo: 
-          url: https://pqjc.site/#/login
-          description: 
         - title: 牛逼机场
           logo: 
           url: https://5.6bcloud.top/#/login
@@ -1891,10 +1883,6 @@
           logo: 
           url: https://panel.vp1.one/#/plan
           description: 
-        - title: Cloud Port
-          logo: 
-          url: https://cloud-port.xyz/#/dashboard
-          description: 已经跑路
         - title: Needay
           logo: 
           url: https://needay.xyz/api/v1/client/subscribe?token=c7494ba4d62ffa177c3cdcb26d8df868
