@@ -1745,6 +1745,10 @@
           logo: 
           url: https://www.lddgo.net/base/class?classID=1
           description: 
+        - title: 老板键
+          logo: 
+          url: https://github.com/john-walks-slow/window-summoner
+          description: 
             
     - term: 魔法工具
       links:
