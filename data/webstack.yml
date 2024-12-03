@@ -30,7 +30,11 @@
     - title: ChatGpt 官网
       logo:  
       url: https://chatgpt.com/?oai-dm=1
-      description:  
+      description: 
+    - title: 万知
+      logo:  
+      url: https://www.wanzhi.com/home
+      description: 
     - title: 谷歌云盘
       logo:  
       url: https://drive.google.com/drive/home
@@ -62,10 +66,6 @@
     - title: 英文名字生成器-UU在线工具-
       logo: 
       url: https://uutool.cn/english-name/
-      description: 
-    - title: 万知
-      logo:  
-      url: https://www.wanzhi.com/home
       description: 
     - title: ico图标
       logo:  
