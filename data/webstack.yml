@@ -11,7 +11,7 @@
       logo: 
       url: https://whoer.net/zh
       description: 
-    - title: cloudflare
+    - title: cloudflare官网
       logo: 
       url: https://dash.cloudflare.com/
       description: 
@@ -27,7 +27,7 @@
       logo:  
       url: https://yelisms.lat/user/home#
       description:
-    - title: ChatGpt官网
+    - title: ChatGpt 官网
       logo:  
       url: https://chatgpt.com/?oai-dm=1
       description:  
@@ -39,18 +39,6 @@
       logo:  
       url: https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/
       description:  
-    - title: AI模型
-      logo:  
-      url: https://www.getmerlin.in/chat
-      description: 
-    - title: Chat100-ai
-      logo:  
-      url: https://chat100.ai/zh-CN
-      description: 
-    - title: Claude-AI-无限次数版
-      logo:  
-      url: https://kelaode.ai/
-      description: 
     - title: 谷歌浏览器
       logo: 
       url: https://www.google.com/?hl=zh-CN
@@ -75,37 +63,9 @@
       logo: 
       url: https://uutool.cn/english-name/
       description: 
-    - title: 人工智能-需要微信登陆
-      logo:  
-      url: https://aicnn.cn/
-      description: 
-    - title: 自己做的ChatGpt4.0
-      logo:  
-      url: https://gq86p6-3000.csb.app/
-      description: 
-    - title: 自己ChatGPT4.0可搭建模型
-      logo:  
-      url: https://www.coze.com/space/7357719953564975110/bot/7357720354968092678
-      description: 
     - title: 万知
       logo:  
       url: https://www.wanzhi.com/home
-      description: 
-    - title: perplexity-GPT
-      logo:  
-      url: https://www.perplexity.ai/search/ni-hao-XQNOdGNFT923FVcClAgw2g#0
-      description: 
-    - title: claude--AI
-      logo:  
-      url: https://claude.ai/chats
-      description: 
-    - title: 11种AI大模型
-      logo:  
-      url: https://chat.notdiamond.ai/
-      description: 
-    - title: ChandlerAi
-      logo:  
-      url: https://chandler.bet/#/overView
       description: 
     - title: ico图标
       logo:  
@@ -162,10 +122,6 @@
     - title: tiktok
       logo:  
       url: https://www.tiktok.com
-      description: 
-    - title: kimi国内人工AI
-      logo:  
-      url: https://kimi.moonshot.cn/
       description: 
     - title: 网页抖音去水印
       logo:  
@@ -415,7 +371,7 @@
         
     - term: 网络IP查询
       links:
-        - title: ChatGpt官网
+        - title: ChatGpt 官网
           logo:  
           url: https://chatgpt.com/?oai-dm=1
           description: 
@@ -792,6 +748,65 @@
         - title: 收集IP
           logo: 
           url: https://raw.githubusercontent.com/TgDaosheng/Cloudflare-Trojan/refs/heads/main/ipv4.txt
+          description: 
+          
+    - term: 智能人工AI
+      links:
+        - title: ChatGpt 官网
+          logo:  
+          url: https://chatgpt.com/?oai-dm=1
+          description: 
+        - title: GPT3-免费版
+          logo:  
+          url: https://zhanglang.cc/#/chat
+          description: 
+        - title: AI模型
+          logo:  
+          url: https://www.getmerlin.in/chat
+          description: 
+        - title: Chat100-ai
+          logo:  
+          url: https://chat100.ai/zh-CN
+          description: 
+        - title: Claude-AI-无限次数版
+          logo:  
+          url: https://kelaode.ai/
+          description: 
+        - title: 人工智能-需要微信登陆
+          logo:  
+          url: https://aicnn.cn/
+          description: 
+        - title: 自己做的ChatGpt4.0
+          logo:  
+          url: https://gq86p6-3000.csb.app/
+          description: 
+        - title: 自己ChatGPT4.0可搭建模型
+          logo:  
+          url: https://www.coze.com/space/7357719953564975110/bot/7357720354968092678
+          description: 
+        - title: 万知
+          logo:  
+          url: https://www.wanzhi.com/home
+          description: 
+        - title: perplexity-GPT
+          logo:  
+          url: https://www.perplexity.ai/search/ni-hao-XQNOdGNFT923FVcClAgw2g#0
+          description: 
+        - title: claude--AI
+          logo:  
+          url: https://claude.ai/chats
+          description: 
+        - title: 11种AI大模型
+          logo:  
+          url: https://chat.notdiamond.ai/
+          description: 
+        - title: ChandlerAi
+          logo:  
+          url: https://chandler.bet/#/overView
+          description: 
+        - title: kimi国内人工AI
+          logo:  
+          url: https://kimi.moonshot.cn/
           description: 
 
     - term: 购物及其他平台
