@@ -1740,34 +1740,6 @@
           logo: 
           url: https://github.com/XyHK-HUC/Worker-Free-Vless
           description: 
-        - title: 源代码混淆-节点搭建01
-          logo: 
-          url: 
-          description: 
-        - title: 源代码混淆-节点搭建02
-          logo: 
-          url: https://github.com/keaeye/WyKeaeye
-          description: 
-        - title: 源代码编译-混淆-01
-          logo: 
-          url: https://toolonline.net/js-obfuscator
-          description: 
-        - title: 源代码编译-混淆-02
-          logo: 
-          url: https://obfuscator.io/
-          description: 
-        - title: 源代码编译-混淆-03
-          logo: 
-          url: https://www.json.cn/jshx/
-          description: 
-        - title: 源代码编译-混淆-04
-          logo: 
-          url: https://www.lddgo.net/encrypt/js
-          description: 
-        - title: 在线编辑字符-在线工具
-          logo: 
-          url: https://www.lddgo.net/base/class?classID=1
-          description: 
         - title: 老板键
           logo: 
           url: https://github.com/john-walks-slow/window-summoner
@@ -1886,6 +1858,38 @@
         - title: 6-2-的订阅转换器24.11.23
           logo: 
           url: https://dyq.amm880.ggff.net/
+          description: 
+        - title: 源代码混淆-节点搭建01
+          logo: 
+          url: 
+          description: 
+        - title: 源代码混淆-节点搭建02
+          logo: 
+          url: https://github.com/keaeye/WyKeaeye
+          description: 
+        - title: 源代码编译-混淆-01
+          logo: 
+          url: https://toolonline.net/js-obfuscator
+          description: 
+        - title: 源代码编译-混淆-02
+          logo: 
+          url: https://obfuscator.io/
+          description: 
+        - title: 源代码编译-混淆-03
+          logo: 
+          url: https://www.json.cn/jshx/
+          description: 
+        - title: 源代码编译-混淆-04
+          logo: 
+          url: https://www.lddgo.net/encrypt/js
+          description: 
+        - title: 源代码编译-混淆-05
+          logo: 
+          url: https://www.jyshare.com/front-end/6939/
+          description: 
+        - title: 在线编辑字符-在线工具
+          logo: 
+          url: https://www.lddgo.net/base/class?classID=1
           description: 
 
     - term: 机场节点
