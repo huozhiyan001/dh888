@@ -1231,6 +1231,10 @@
           logo:  
           url: https://www.freedownloadmanager.org/zh/
           description: 
+        - title: borderfree-VPN浏览器
+          logo:  
+          url: https://borderfree.app/fulldownload/
+          description: 
   
     - term: 浏览器插件及软件
       links:
