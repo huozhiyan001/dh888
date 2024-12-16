@@ -538,11 +538,27 @@
         - title: 获取反代IP官网
           logo:  
           url: https://www.onecn.eu.org/article/besturl
-          description:
+          description: 
         - title: 优选反代IP网站
           logo:  
           url: https://ipdb.030101.xyz/bestproxy/
-          description:
+          description: 
+        - title: 美国地址生成器02
+          logo:  
+          url: https://www.addressgenerator.net/zh-cn/us
+          description: 
+        - title: 信用卡生成器01
+          logo:  
+          url: https://www.suijidaquan.com/credit-card-generator
+          description: 
+        - title: 信用卡生成器02
+          logo:  
+          url: https://www.useotools.com/zh/virtual-credit-card-generator
+          description: 
+        - title: 国内银行卡生成器
+          logo:  
+          url: https://ddu1222.github.io/bankcard-validator/bcBuilder.html
+          description: 
                  
     - term: 优选与反代-及免费节点
       links:
