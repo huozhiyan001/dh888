@@ -574,6 +574,14 @@
           logo:  
           url: https://bihai.cf/CFIP/IPV6/
           description: 
+        - title: CFIP-03
+          logo:  
+          url: https://github.com/3g79/my
+          description: 
+        - title: IP数据库
+          logo:  
+          url: https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv
+          description: 
         - title: ipdb-ipv4
           logo:  
           url: https://ipdb.api.030101.xyz/?type=cfv4;proxy
@@ -736,10 +744,6 @@
         - title: CFIP-02
           logo:  
           url: https://github.com/hhyyx1/cfip
-          description: 
-        - title: CFIP-03
-          logo:  
-          url: https://github.com/3g79/my
           description: 
         - title: CFIP-04
           logo:  
