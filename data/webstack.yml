@@ -17,7 +17,7 @@
       description: 
     - title: github官网
       logo:  
-      url: https://github.com/dashboard
+      url: https://github.com/
       description: 
     - title: 接码平台-01
       logo:  
@@ -1517,12 +1517,12 @@
     - term: 源代码
       links:
         - title: cloudflare官网
-          logo:  
+          logo: 
           url: https://dash.cloudflare.com/
           description: 
         - title: github官网
           logo:  
-          url: https://github.com/dashboard
+          url: https://github.com/
           description: 
         - title: replit官网
           logo:  
