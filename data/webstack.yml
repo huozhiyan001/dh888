@@ -2401,7 +2401,18 @@
           logo: 
           url: https://www.youtube.com/watch?v=k_DswGGJd4E
           description: 
-         
+
+    - term: 系统相关类
+      links:
+        - title: IT豪哥-电脑教程网
+          logo: 
+          url: https://www.ithaoge.cn/
+          description: 
+        - title: Windows 10 -ISO镜像文件下载
+          logo: 
+          url: https://www.microsoft.com/zh-cn/software-download/windows10
+          description: 没有找到下载界面需要在浏览器按下F12将界面调整为手机界面在切回去就可以
+          
     - term: 导航网站
       links:
         - title: 导航网站-精简版-1
