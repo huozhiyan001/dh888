@@ -1776,6 +1776,10 @@
           logo: 
           url: https://github.com/john-walks-slow/window-summoner
           description: 
+        - title: Rufus v4.6.2208 开源USB引导启动盘制作工具
+          logo: 
+          url: https://github.com/pbatard/rufus
+          description: 
             
     - term: 魔法工具
       links:
