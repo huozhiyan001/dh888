@@ -1784,6 +1784,10 @@
           logo: 
           url: https://github.com/pbatard/rufus
           description: 
+        - title: 一键禁用/删除Windows安全中心
+          logo: 
+          url: https://github.com/ionuttbara/windows-defender-remover
+          description: 
             
     - term: 魔法工具
       links:
