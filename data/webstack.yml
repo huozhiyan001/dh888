@@ -1792,6 +1792,10 @@
           logo: 
           url: https://github.com/ionuttbara/windows-defender-remover
           description: 
+        - title: ventoy-镜像系统
+          logo: 
+          url: https://github.com/ventoy/Ventoy
+          description: 
             
     - term: 魔法工具
       links:
@@ -2418,7 +2422,7 @@
           url: https://www.youtube.com/watch?v=k_DswGGJd4E
           description: 
 
-    - term: 系统相关类
+    - term: 系统资源
       links:
         - title: IT豪哥-电脑教程网
           logo: 
@@ -2428,6 +2432,66 @@
           logo: 
           url: https://www.microsoft.com/zh-cn/software-download/windows10
           description: 没有找到下载界面需要在浏览器按下F12将界面调整为手机界面在切回去就可以
+        - title: Ventoy官网
+          logo: 
+          url: https://www.ventoy.net/cn/index.html
+          description: 
+        - title: Windows To Go-萝卜头
+          logo: 
+          url: https://bbs.luobotou.org/bstra/thread-761-1-1.html
+          description: 
+        - title: Rufus系统镜像工具02
+          logo: 
+          url: https://github.com/pbatard/rufus
+          description: 
+        - title: 微PE工具箱
+          logo: 
+          url: https://www.wepe.com.cn/
+          description: 
+        - title: NEXT, ITELLYOU
+          logo: 
+          url: https://next.itellyou.cn/
+          description: 
+        - title: Windows系统下载仓储站
+          logo: 
+          url: https://hellowindows.cn/
+          description: 
+        - title: 纯净系统
+          logo: 
+          url: https://lvsexitong.com/
+          description: 
+        - title: WINOS-前沿的精简系统下载
+          logo: 
+          url: https://www.winos.me/
+          description: 
+        - title: Linux系统官网
+          logo: 
+          url: https://www.linux.org/pages/download/
+          description: 
+        - title: 下载 Windows 11
+          logo: 
+          url: https://www.microsoft.com/zh-cn/software-download/windows11
+          description: 
+        - title: 下载 Windows 10
+          logo: 
+          url: https://www.microsoft.com/zh-cn/software-download/windows10
+          description: 
+        - title: IT豪哥-电脑教程网
+          logo: 
+          url: https://www.ithaoge.cn/
+          description: 
+        - title: MSDN,做一个安静的工具站
+          logo: 
+          url: https://msdn.itellyou.cn/
+          description: 
+        - title: MSDN系统库
+          logo: 
+          url: https://www.xitongku.com/index.html
+          description: 
+        - title: 系统之家官网
+          logo: 
+          url: https://xitong.jjxnwl.com/
+          description: 
           
     - term: 导航网站
       links:
