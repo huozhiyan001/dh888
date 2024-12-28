@@ -784,6 +784,10 @@
           logo:  
           url: https://chatgpt.com/?oai-dm=1
           description: 
+        - title: Copilot-AI
+          logo:  
+          url: https://github.com/copilot
+          description: 
         - title: GPT3-免费版
           logo:  
           url: https://zhanglang.cc/#/chat
