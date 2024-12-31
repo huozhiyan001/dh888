@@ -379,6 +379,14 @@
           logo: 
           url: https://defense.yunaq.com/tools/dnstranscoding/
           description: 
+        - title: 检测域名-国内网站访问检测
+          logo:  
+          url: https://ping.chinaz.com/
+          description: 
+        - title: 检查域名-国外网址访问检测
+          logo:  
+          url: https://check-host.net/
+          description: 
         
         
     - term: 网络IP查询
@@ -566,8 +574,8 @@
         - title: 国内银行卡生成器
           logo:  
           url: https://ddu1222.github.io/bankcard-validator/bcBuilder.html
-          description: 
-                 
+          description:    
+                
     - term: 优选与反代-及免费节点
       links:
         - title: 碧海反代IPV4-IPV4
