@@ -594,9 +594,9 @@
           logo:  
           url: https://github.com/3g79/my
           description: 
-        - title: IP数据库
+        - title: CM大佬的优选IP库
           logo:  
-          url: https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv
+          url: https://raw.githubusercontent.com/qmsdh/epeius/refs/heads/main/jiedian.txt
           description: 
         - title: ipdb-ipv4
           logo:  
