@@ -1828,6 +1828,10 @@
           logo: 
           url: https://github.com/he55/IconExtractor
           description: 
+        - title: 多个节点转换一个订阅链接
+          logo: 
+          url: https://github.com/eooce/Merge-sub
+          description: 
             
     - term: 魔法工具
       links:
