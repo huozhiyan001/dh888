@@ -797,6 +797,21 @@
           logo: 
           url: https://vless.fxxk.dedyn.io/
           description: 
+
+    - term: 网络工具
+      links:
+        - title: UUID生成器01
+          logo:  
+          url: https://1024tools.com/uuid
+          description: 
+        - title: UUID生成器02
+          logo:  
+          url: https://www.uuid.online/
+          description: 
+        - title: UUID生成器03
+          logo:  
+          url: https://tool.aizrf.com/uuid/
+          description: 
           
     - term: 智能人工AI
       links:
