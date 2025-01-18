@@ -793,13 +793,9 @@
           logo: 
           url: https://github.com/jackrun123/cfiptest
           description: 
-        - title: CM大佬的SUB上面的订阅
+        - title: CM大佬订阅生成节点
           logo: 
-          url: https://uptime.cmliussss.com/status/sub
-          description: 
-        - title: 收集IP
-          logo: 
-          url: https://raw.githubusercontent.com/TgDaosheng/Cloudflare-Trojan/refs/heads/main/ipv4.txt
+          url: https://vless.fxxk.dedyn.io/
           description: 
           
     - term: 智能人工AI
@@ -1361,6 +1357,10 @@
         - title: 长截图-ShotEasy-03
           logo: 
           url: https://chromewebstore.google.com/detail/shoteasy-%E8%BD%BB%E5%B7%A7%E5%A5%BD%E7%94%A8%E7%9A%84%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/nmppkehciohcgcehlnifgeokgioidknh
+          description: 
+        - title: 超级复制-SuperCopy
+          logo: 
+          url: https://chromewebstore.google.com/detail/supercopy-enable-copy/onepmapfbjohnegdmfhndpefjkppbjkm?hl=zh-CN&utm_source=ext_sidebar
           description: 
         - title: 超级复制Toggle JavaScript
           logo: 
