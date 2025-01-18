@@ -2154,6 +2154,16 @@
           url: https://github.com/YerongAI/Office-Tool
           description: 
 
+    - term: 解析网站
+      links:
+        - title: 视频解析01
+          logo: 
+          url: https://snapany.com/zh
+          description: 
+        - title: 视频解析02
+          logo: 
+          url: https://tiqu.cc/
+          description: 
 
 - taxonomy: 游戏频道
   icon: fa-thumbs-up
