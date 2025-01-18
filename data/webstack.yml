@@ -388,9 +388,13 @@
           url: https://ping.chinaz.com/
           description: 
         - title: 检查域名-国外网址访问检测
-          logo:  
+          logo: 
           url: https://check-host.net/
           description: 
+        - title: HiDNS二级域名-不能托管CF上
+          logo: 
+          url: https://www.hidoha.net/
+          description: 一年优惠码不能托管到CF上----Hello2025
         
         
     - term: 网络IP查询
