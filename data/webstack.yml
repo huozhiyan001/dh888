@@ -587,6 +587,10 @@
           logo:  
           url: https://github.com/huozhiyan001/Real-US-Address-Generator/tree/main
           description: 
+        - title: 指纹检测IP-工具
+          logo:  
+          url: https://www.browserscan.net/zh/
+          description: 
                 
     - term: 优选与反代-及免费节点
       links:
