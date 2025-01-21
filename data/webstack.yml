@@ -1723,6 +1723,10 @@
           logo:  
           url: https://github.com/WindowsAddict/IDM-Activation-Script/releases
           description: 
+        - title: IDM激活需要用到powershell口令
+          logo:  
+          url: https://github.com/kamrullab/idm
+          description: 
         - title: Telegram-X
           logo:  
           url: https://github.com/TGX-Android/Telegram-X
