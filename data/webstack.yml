@@ -1596,6 +1596,13 @@
           logo:  
           url: https://greasyfork.org/zh-CN/scripts/513528-123-%E4%BA%91%E7%9B%98%E4%BC%9A%E5%91%98%E9%9D%92%E6%98%A5%E7%89%88
           description: 
+
+    - term: Edge与firefox浏览器插件
+      links:
+        - title: Firefox 附加组件（zh-CN）
+          logo:  
+          url: https://addons.mozilla.org/zh-CN/firefox/
+          description: 
         
     - term: 源代码
       links:
