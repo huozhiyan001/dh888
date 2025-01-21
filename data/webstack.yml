@@ -1322,11 +1322,7 @@
           logo:  
           url: https://www.gndown.com/
           description: 
-        - title: Web3AI暴富浏览器
-          logo:  
-          url: https://borderfree.app/
-          description: 
-  
+        
     - term: 浏览器插件及软件
       links:
         - title: Google浏览器官网
@@ -2679,6 +2675,18 @@
         - title: 科技分享导航
           logo:  
           url: https://afengxiang.github.io/afx/
+          description: 
+        - title: Web3AI-暴富浏览器
+          logo:  
+          url: https://borderfree.app/
+          description: 自带外网浏览器
+        - title: Tor Project浏览器
+          logo:  
+          url: https://www.torproject.org/zh-CN/
+          description: 自带外网浏览器
+        - title: hao123导航
+          logo:  
+          url: https://www.hao123.com/
           description: 
           
 ---
